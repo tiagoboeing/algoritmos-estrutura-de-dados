@@ -98,9 +98,9 @@ public class ListaEstaticaInt {
     }
 
     /* 
-Procura na lista um determinado dado
-@param dado a ser pesquisado
-@return posição do dado na lista. Caso não seja encontrado retorna -1
+        Procura na lista um determinado dado
+        @param dado a ser pesquisado
+        @return posição do dado na lista. Caso não seja encontrado retorna -1
      */
     public int buscar(int dado) {
         for (int i = 0; i < tamanho; i++) {
