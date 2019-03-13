@@ -11,6 +11,7 @@ public class ListaEstaticaInt {
         info = new int[TAMANHO_INICIAL];
     }
 
+    
     public void redimensionar() {
         int[] novo = new int[tamanho + 10];
         for (int i = 0; i < tamanho; i++) {
