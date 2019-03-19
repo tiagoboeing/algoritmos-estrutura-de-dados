@@ -2,9 +2,26 @@ package listas;
 
 public class ListaEstaticaInt {
 
-    private int tamanho;
     private int info[];
+    private int tamanho;
     private final byte TAMANHO_INICIAL = 10;
+
+
+    public static void main(String[] args) {
+
+        ListaEstaticaIntTests tests = new ListaEstaticaIntTests();
+
+//        tests.caso1();
+//        tests.caso2();
+//        tests.caso3();
+//        tests.caso4();
+//        tests.caso5();
+//        tests.caso6();
+//        tests.caso7();
+//        tests.caso8();
+//        tests.caso9();
+
+    }
 
     public ListaEstaticaInt() {
         tamanho = 0;
