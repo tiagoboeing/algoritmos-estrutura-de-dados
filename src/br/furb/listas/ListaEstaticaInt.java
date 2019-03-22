@@ -1,4 +1,4 @@
-package listas;
+package br.furb.listas;
 
 public class ListaEstaticaInt {
 
