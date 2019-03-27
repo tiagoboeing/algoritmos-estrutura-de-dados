@@ -83,6 +83,10 @@ public class ListaEncadeada<T> {
         return first == null ? true : false;
     }
 
+    /*
+    * pior caso: complexidade linear
+    * melhor caso: 1
+    */
     public NodeList<T> getNode(int index){
         if(index < 0){ throw new IndexOutOfBoundsException(); }
 
@@ -159,7 +163,7 @@ public class ListaEncadeada<T> {
         String message = "";
 
         while(f != null){
-            message = message == "" ?  (message + f.getInfo()) : (message + "," + f.getInfo());
+            message = message == "" ? (message + f.getInfo()) : (message + "," + f.getInfo());
             f = f.getNext();
         }
         return message;
