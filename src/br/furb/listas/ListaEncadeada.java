@@ -83,11 +83,17 @@ public class ListaEncadeada<T> {
         return first == null ? true : false;
     }
 
-    public NodeList<T> getNode(int pos){
-        if(pos < 0){ throw new IndexOutOfBoundsException(); }
+    public NodeList<T> getNode(int index){
+        if(index < 0){ throw new IndexOutOfBoundsException(); }
 
         NodeList<T> f = getFirst();
-        for(int i = 0; (f != null) && (i < pos); i++){
+
+//        for(int i = 0; (f != null) && (i < index); i++){
+//            f = f.getNext();
+//        }
+
+        while ((f != null) && (index > 0)){
+            index--;
             f = f.getNext();
         }
 
