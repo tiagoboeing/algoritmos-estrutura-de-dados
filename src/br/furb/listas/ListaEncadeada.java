@@ -13,7 +13,7 @@ public class ListaEncadeada<T> {
 //        tests.caso2();
 //        tests.caso3();
 //        tests.caso4();
-        tests.caso5();
+//        tests.caso5();
 //        tests.caso6();
 //        tests.caso7();
 //        tests.caso8();
@@ -54,7 +54,7 @@ public class ListaEncadeada<T> {
         NodeList<T> f = first;
 
         /* search a node for remove and save the previous */
-        while(f != null && f.getInfo().equals(info)){
+        while((f != null) && (!f.getInfo().equals(info))){
             previous = f;
             f = f.getNext();
         }
@@ -91,7 +91,7 @@ public class ListaEncadeada<T> {
             f = f.getNext();
         }
 
-        if(f != null){ throw new IndexOutOfBoundsException(); }
+        if(f == null){ throw new IndexOutOfBoundsException(); }
         return f;
     }
 
