@@ -1,6 +1,6 @@
 package br.furb.listas;
 
-import br.furb.Model.NodeList;
+import br.furb.model.NodeList;
 
 public class ListaEncadeada<T> {
 

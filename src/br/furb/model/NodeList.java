@@ -1,4 +1,4 @@
-package br.furb.Model;
+package br.furb.model;
 
 public class NodeList<T> {
 
