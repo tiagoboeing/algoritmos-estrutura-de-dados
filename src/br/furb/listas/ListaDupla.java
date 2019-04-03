@@ -11,7 +11,6 @@ public class ListaDupla<T> {
         primeiro = null;
     }
 
-    // main method
     public static void main(String[] args) {
         ListaDuplaTests tests = new ListaDuplaTests();
 
@@ -22,6 +21,7 @@ public class ListaDupla<T> {
 //        tests.caso5();
 //        tests.caso6();
 //        tests.caso7();
+        tests.inserirPosicao();
     }
 
     public void inserir(T info){
@@ -34,7 +34,35 @@ public class ListaDupla<T> {
             primeiro.setAnterior(novo);
         }
 
-        this.primeiro = novo;
+        primeiro = novo;
+    }
+
+    public void inserirIndex(int indice, T info){
+        int qtdeNos = this.getLength();
+
+        if (indice >= 0 && indice <= qtdeNos){
+            if (indice == qtdeNos) {// ultima posicao
+                this.inserir(info);
+            }
+            else {
+                NoListaDupla novo = new NoListaDupla();
+                novo.setInfo(info);
+
+                NoListaDupla elemE;
+
+                if (indice == 0){ // primeira posicao
+                    novo.setProximo(primeiro);
+                    primeiro.setAnterior(novo);
+                    primeiro = novo;
+                } else { // posicao intermediaria
+                    elemE = this.obterNo(indice);
+                    novo.setProximo(elemE.getProximo());
+                    novo.setAnterior(elemE);
+                    novo.getProximo().setAnterior(novo);
+                    elemE.setProximo(novo);
+                }
+            }
+        }
     }
 
     public void exibir(){
@@ -64,10 +92,29 @@ public class ListaDupla<T> {
     }
 
     public void retirar(T info){
+        /*
+        NoListaDupla<T> anterior = null;
+        NoListaDupla<T> p = primeiro;
+
+        while((p != null) && (!p.getInfo().equals(info))){
+            anterior = p;
+            p = p.getProximo();
+        }
+
+        if(p != null){
+            if(anterior == null){ // é o primeiro caso?
+                this.primeiro = p.getProximo();
+            } else {
+                anterior.setProximo(p.getProximo());
+            }
+        }
+        */
+
+        // Com algoritmo de busca
         NoListaDupla<T> p = buscar(info);
 
         if(p != null){
-            // é o primeiro elemento?
+            // é o primeiro nó?
             if(primeiro == p){
                 primeiro = p.getProximo();
             } else {
@@ -138,6 +185,23 @@ public class ListaDupla<T> {
             p = save;
         }
         primeiro = null;
+
+
+        /*
+        NoListaDupla<T> p = primeiro;
+
+        while(p != null){
+            p.setAnterior(null);
+            p = p.getProximo();
+
+            // se não for final da lista e nem o primeiro
+            // atualiza a referência 'próximo' do nó anterior
+            if((p != null) && (p.getAnterior() != null)){
+                p.getAnterior().setProximo(null);
+            }
+        }
+        primeiro = null;
+        */
     }
 
     @Override

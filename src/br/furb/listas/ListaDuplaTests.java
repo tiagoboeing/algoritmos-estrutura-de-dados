@@ -19,8 +19,8 @@ public class ListaDuplaTests extends ListaDupla {
         System.out.println("CASO 1");
         ld.exibir();
 
-        System.out.println("============");
-        ld.ordemInversa();
+      /*  System.out.println("============");
+        ld.ordemInversa();*/
     }
 
     public void caso2(){
@@ -121,5 +121,16 @@ public class ListaDuplaTests extends ListaDupla {
         System.out.println(no20.getAnterior());
         System.out.println(no20.getProximo());
 
+    }
+
+    public void inserirPosicao(){
+        ListaDupla<Integer> ld = new ListaDupla<>();
+
+        ld.inserirIndex(0,5);
+        ld.inserirIndex(1,10);
+        ld.inserirIndex(2,15);
+        ld.inserirIndex(3,20);
+
+        System.out.println(ld.toString());
     }
 }

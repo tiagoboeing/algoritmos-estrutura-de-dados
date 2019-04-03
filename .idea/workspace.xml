@@ -33,34 +33,35 @@
     <session id="213280295">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="27" />
+          <entry key="java" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="27" />
+          <entry key="JAVA" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="10" />
-          <entry key="java" value="7313" />
+          <entry key="java" value="8353" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7313" />
+          <entry key="JAVA" value="8353" />
           <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
@@ -85,36 +86,41 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaDupla.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
+            <state relative-caret-position="352">
               <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding>
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
                 <element signature="method#inserir#0;class#ListaDupla#0" />
+                <element signature="method#exibir#0;class#ListaDupla#0" />
+                <element signature="method#buscar#0;class#ListaDupla#0" />
                 <element signature="method#retirar#0;class#ListaDupla#0" />
                 <element signature="method#obterUltimo#0;class#ListaDupla#0" />
                 <element signature="method#ordemInversa#0;class#ListaDupla#0" />
                 <element signature="method#getLength#0;class#ListaDupla#0" />
                 <element signature="method#obterNo#0;class#ListaDupla#0" />
                 <element signature="method#liberar#0;class#ListaDupla#0" />
-                <element signature="e#2510#2511#0" expanded="true" />
-                <element signature="e#2541#2542#0" expanded="true" />
+                <element signature="method#toString#0;class#ListaDupla#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaDuplaTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="111" column="30" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
+            <state relative-caret-position="246">
+              <caret line="130" column="30" lean-forward="true" selection-start-line="130" selection-start-column="30" selection-end-line="130" selection-end-column="30" />
               <folding>
                 <element signature="method#caso1#0;class#ListaDuplaTests#0" />
+                <element signature="method#caso2#0;class#ListaDuplaTests#0" />
+                <element signature="method#caso3#0;class#ListaDuplaTests#0" />
+                <element signature="method#caso4#0;class#ListaDuplaTests#0" />
+                <element signature="method#caso5#0;class#ListaDuplaTests#0" />
+                <element signature="method#caso6#0;class#ListaDuplaTests#0" />
+                <element signature="method#caso7#0;class#ListaDuplaTests#0" />
               </folding>
             </state>
           </provider>
@@ -147,8 +153,8 @@
         <option value="$PROJECT_DIR$/src/br/furb/listas/ListaEncadeadaTests.java" />
         <option value="$PROJECT_DIR$/src/br/furb/listas/ListaEncadeada.java" />
         <option value="$PROJECT_DIR$/src/br/furb/model/NoListaDupla.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/listas/ListaDuplaTests.java" />
         <option value="$PROJECT_DIR$/src/br/furb/listas/ListaDupla.java" />
+        <option value="$PROJECT_DIR$/src/br/furb/listas/ListaDuplaTests.java" />
       </list>
     </option>
   </component>
@@ -159,9 +165,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="-9" />
     <option name="width" value="705" />
-    <option name="height" value="1047" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -172,6 +178,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,19 +215,18 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553986395381" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554251801847" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -242,9 +248,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ListaDupla">
+  <component name="RunManager" selected="Application.ListaDuplaTests">
     <configuration name="ListaDupla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.furb.listas.ListaDupla" />
+      <module name="algoritmos-estrutura-de-dados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.furb.listas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListaDuplaTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.furb.listas.ListaDuplaTests" />
       <module name="algoritmos-estrutura-de-dados" />
       <extension name="coverage">
         <pattern>
@@ -295,33 +314,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListaEstaticaIntTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.furb.listas.ListaEstaticaIntTests" />
-      <module name="algoritmos-estrutura-de-dados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.furb.listas.ListaEstaticaGenericaTests" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.ListaEstaticaInt" />
-      <item itemvalue="Application.ListaEstaticaIntTests" />
       <item itemvalue="Application.ListaEstaticaGenerica" />
       <item itemvalue="Application.ListaEncadeada" />
       <item itemvalue="Application.ListaDupla" />
+      <item itemvalue="Application.ListaDuplaTests" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListaDuplaTests" />
         <item itemvalue="Application.ListaDupla" />
         <item itemvalue="Application.ListaEncadeada" />
         <item itemvalue="Application.ListaEstaticaGenerica" />
         <item itemvalue="Application.ListaEstaticaInt" />
-        <item itemvalue="Application.ListaEstaticaIntTests" />
       </list>
     </recent_temporary>
   </component>
@@ -340,12 +346,14 @@
       <workItem from="1553037817849" duration="3741000" />
       <workItem from="1553210795769" duration="4110000" />
       <workItem from="1553643020598" duration="4622000" />
-      <workItem from="1553974657648" duration="8671000" />
+      <workItem from="1553974657648" duration="9270000" />
+      <workItem from="1554160175659" duration="55000" />
+      <workItem from="1554246313751" duration="4976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31295000" />
+    <option name="totallyTimeSpent" value="36925000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,7 +365,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -365,11 +373,11 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.16809882" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18413979" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.224581" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23687151" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23646724" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34900284" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
@@ -382,12 +390,12 @@
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Structure" order="9" visible="true" weight="0.16165413" />
+      <window_info anchor="right" id="Structure" order="4" weight="0.16061828" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -425,6 +433,26 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/br/furb/listas/ListaDupla.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((NoListaDupla)((ListaDupla)this).primeiro).proximo" custom="br.furb.model.NoListaDupla,br.furb.listas.ListaDupla" />
+        <watch expression="((NoListaDupla)((ListaDupla)this).primeiro).anterior" custom="br.furb.model.NoListaDupla,br.furb.listas.ListaDupla" />
+        <watch expression="primeiro" language="JAVA" />
+        <watch expression="novo.info" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/br/furb/ListaEstatica.java" />
@@ -503,16 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -565,32 +583,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaDuplaTests.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="111" column="30" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
-          <folding>
-            <element signature="method#caso1#0;class#ListaDuplaTests#0" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="804" selection-start-line="804" selection-end-line="804" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaDupla.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
+        <state relative-caret-position="352">
           <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
             <element signature="method#inserir#0;class#ListaDupla#0" />
+            <element signature="method#exibir#0;class#ListaDupla#0" />
+            <element signature="method#buscar#0;class#ListaDupla#0" />
             <element signature="method#retirar#0;class#ListaDupla#0" />
             <element signature="method#obterUltimo#0;class#ListaDupla#0" />
             <element signature="method#ordemInversa#0;class#ListaDupla#0" />
             <element signature="method#getLength#0;class#ListaDupla#0" />
             <element signature="method#obterNo#0;class#ListaDupla#0" />
             <element signature="method#liberar#0;class#ListaDupla#0" />
-            <element signature="e#2510#2511#0" expanded="true" />
-            <element signature="e#2541#2542#0" expanded="true" />
+            <element signature="method#toString#0;class#ListaDupla#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaDuplaTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="130" column="30" lean-forward="true" selection-start-line="130" selection-start-column="30" selection-end-line="130" selection-end-column="30" />
+          <folding>
+            <element signature="method#caso1#0;class#ListaDuplaTests#0" />
+            <element signature="method#caso2#0;class#ListaDuplaTests#0" />
+            <element signature="method#caso3#0;class#ListaDuplaTests#0" />
+            <element signature="method#caso4#0;class#ListaDuplaTests#0" />
+            <element signature="method#caso5#0;class#ListaDuplaTests#0" />
+            <element signature="method#caso6#0;class#ListaDuplaTests#0" />
+            <element signature="method#caso7#0;class#ListaDuplaTests#0" />
           </folding>
         </state>
       </provider>
