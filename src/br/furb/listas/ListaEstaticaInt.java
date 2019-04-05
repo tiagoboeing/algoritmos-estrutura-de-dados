@@ -99,13 +99,13 @@ public class ListaEstaticaInt {
         while ((posicao < tamanho) && (info[posicao] < valor)) {
             posicao++;
         }
-        
+
         for (int i=tamanho; i>posicao; i--){
             info[i] = info[i-1];
         }
         info [posicao] = valor;
         tamanho++;
-        
+
     }
 
     public void exibir() {
