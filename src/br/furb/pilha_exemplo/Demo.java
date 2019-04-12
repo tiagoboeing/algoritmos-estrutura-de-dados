@@ -1,4 +1,4 @@
-package br.furb.pilha;
+package br.furb.pilha_exemplo;
 
 public class Demo {
 
