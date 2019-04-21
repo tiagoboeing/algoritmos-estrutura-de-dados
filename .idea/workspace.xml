@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="530142b7-8628-4884-bdea-00f7adf6feb1" name="Default Changelist" comment="" />
+    <list default="true" id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/algoritmos-estrutura-de-dados.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algoritmos-estrutura-de-dados.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritmos-estrutura-de-dados.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algoritmos-estrutura-de-dados.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/pilha/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/pilha/Pilha.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/pilha/Pilha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/pilha/PilhaVetor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/pilha/PilhaVetor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/furb/pilha/PilhaVetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/furb/pilha/PilhaVetor.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,110 +24,68 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/algoritmos_estrutura_de_dados$Java_8.ic" NAME="Java 8 Coverage Results" MODIFIED="1555877116394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="275" />
+  </component>
   <component name="FUSProjectUsageTrigger">
-<<<<<<< HEAD
     <session id="-1118017319">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2554" />
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
-        </counts>
-      </usages-collector>
-    </session>
-=======
->>>>>>> master
-    <session id="213280295">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="26" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="26" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="2" />
-          <entry key="java" value="872" />
+          <entry key="Groovy" value="1" />
+          <entry key="JAVA" value="24" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="872" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="JAVA" value="706" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/furb/model/NodeList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding>
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-=======
-    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Prova1/ListaDupla.java">
+        <entry file="file://$PROJECT_DIR$/src/br/furb/pilha/PilhaVetor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="400">
+              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
               <folding>
-                <element signature="method#main#0;class#ListaDupla#0" />
-                <element signature="method#clonar#0;class#ListaDupla#0" />
-                <element signature="method#inserir#0;class#ListaDupla#0" />
-                <element signature="method#exibir#0;class#ListaDupla#0" />
-                <element signature="method#buscar#0;class#ListaDupla#0" />
-                <element signature="method#getLength#0;class#ListaDupla#0" />
-                <element signature="method#obterNo#0;class#ListaDupla#0" />
-                <element signature="method#toString#0;class#ListaDupla#0" />
->>>>>>> master
+                <element signature="method#PilhaVetor#0;class#PilhaVetor#0" />
+                <element signature="method#push#0;class#PilhaVetor#0" />
+                <element signature="method#peek#0;class#PilhaVetor#0" />
+                <element signature="method#liberar#0;class#PilhaVetor#0" />
+                <element signature="method#concatenar#0;class#PilhaVetor#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/furb/pilha/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-=======
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Prova1/ListaDuplaTests.java">
+        <entry file="file://$PROJECT_DIR$/src/br/furb/pilha/PilhaVetorTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
->>>>>>> master
+            <state relative-caret-position="437">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaDupla.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -122,7 +95,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit3 Test Class" />
       </list>
     </option>
   </component>
@@ -132,34 +107,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/br/furb/ListaEstatica.java" />
-        <option value="$PROJECT_DIR$/src/listas/ListaEstaticaIntTests.java" />
-        <option value="$PROJECT_DIR$/src/listas/ListaEstaticaInt.java" />
-        <option value="$PROJECT_DIR$/src/listas/LisaEcstaticGenericTests.java" />
-        <option value="$PROJECT_DIR$/src/listas/ListaEstaticaGenericaTests.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/Main.java" />
-        <option value="$PROJECT_DIR$/src/listas/ListaEstaticaGenerica.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/Model/NoLista.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/Model/NodeList.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/listas/ListaEncadeadaTests.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/listas/ListaEncadeada.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/model/NoListaDupla.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/listas/ListaDupla.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/listas/ListaDuplaTests.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/prova1_semestres_anteriores/NoLista.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/prova1_semestres_anteriores/Aluno.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/prova1_semestres_anteriores/Prova_01.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/Prova1/questao1_ListaEstatica.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/Prova1/Questao1_ListaEstaticaTests.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/Prova1/Questao1_ListaEstatica.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/Prova1/ListaEstatica.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/listas/ListaEstaticaInt.java" />
-        <option value="$PROJECT_DIR$/src/Prova1/ListaEstaticaTests.java" />
-        <option value="$PROJECT_DIR$/src/Prova1/ListaEstatica.java" />
-        <option value="$PROJECT_DIR$/src/Prova1/NoListaDupla.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/prova1_semestres_anteriores/Lista.java" />
-        <option value="$PROJECT_DIR$/src/Prova1/ListaDuplaTests.java" />
-        <option value="$PROJECT_DIR$/src/Prova1/ListaDupla.java" />
+        <option value="$PROJECT_DIR$/src/br/furb/pilha/PilhaVetorTest.groovy" />
+        <option value="$PROJECT_DIR$/src/br/furb/pilha/PilhaVetorTest.java" />
+        <option value="$PROJECT_DIR$/src/br/furb/pilha/PilhaVetorTests.java" />
+        <option value="$PROJECT_DIR$/src/br/furb/pilha/PilhaVetor.java" />
       </list>
     </option>
   </component>
@@ -169,23 +120,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="705" />
     <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
       <pane id="PackagesPane" />
-=======
->>>>>>> master
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,58 +155,45 @@
               <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="furb" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
               <item name="pilha" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="listas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
               <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="furb" type="462c0819:PsiDirectoryNode" />
-              <item name="prova1_semestres_anteriores" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Prova1" type="462c0819:PsiDirectoryNode" />
->>>>>>> master
+              <item name="pilha_exemplo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-<<<<<<< HEAD
-=======
-      <pane id="PackagesPane" />
->>>>>>> master
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-<<<<<<< HEAD
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554946814669" />
-=======
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554426230599" />
->>>>>>> master
-    <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../compiladores" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555884266642" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="listas" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="br.furb.pilha" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="A:\Java\algoritmos-estrutura-de-dados\src\br\furb\pilha" />
-      <recent name="C:\Users\tiago\Desktop\Java\algoritmos-estrutura-de-dados\src\listas" />
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -275,23 +208,13 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.Demo">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.furb.pilha.Demo" />
+  <component name="RunManager" selected="Application.PilhaVetorTests">
+    <configuration name="PilhaVetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.furb.pilha.PilhaVetor" />
       <module name="algoritmos-estrutura-de-dados" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.furb.pilha.*" />
-=======
-  <component name="RunManager" selected="Application.ListaDupla">
-    <configuration name="ListaDupla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prova1.ListaDupla" />
-      <module name="algoritmos-estrutura-de-dados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Prova1.*" />
->>>>>>> master
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,17 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="ListaDupla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.furb.listas.ListaDupla" />
-=======
-    <configuration name="ListaDuplaTests (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prova1.ListaDuplaTests" />
->>>>>>> master
+    <configuration name="PilhaVetorTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.furb.pilha.PilhaVetorTests" />
       <module name="algoritmos-estrutura-de-dados" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Prova1.*" />
+          <option name="PATTERN" value="br.furb.pilha.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,220 +235,118 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="ListaDuplaTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.furb.listas.ListaDuplaTests" />
-=======
-    <configuration name="ListaEstatica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prova1.ListaEstatica" />
->>>>>>> master
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.furb.Main" />
       <module name="algoritmos-estrutura-de-dados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Prova1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="ListaEncadeada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.furb.listas.ListaEncadeada" />
-=======
-    <configuration name="ListaEstaticaTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prova1.ListaEstaticaTests" />
->>>>>>> master
-      <module name="algoritmos-estrutura-de-dados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Prova1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="ListaEstaticaGenerica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.furb.listas.ListaEstaticaGenerica" />
-      <module name="algoritmos-estrutura-de-dados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.furb.listas.*" />
-=======
-    <configuration name="Prova_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.furb.prova1_semestres_anteriores.Prova_01" />
-      <module name="algoritmos-estrutura-de-dados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.furb.prova1_semestres_anteriores.*" />
->>>>>>> master
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-<<<<<<< HEAD
-      <item itemvalue="Application.ListaEstaticaGenerica" />
-      <item itemvalue="Application.ListaEncadeada" />
-      <item itemvalue="Application.ListaDupla" />
-      <item itemvalue="Application.ListaDuplaTests" />
-      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.PilhaVetorTests" />
+      <item itemvalue="Application.PilhaVetor" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.ListaDuplaTests" />
-        <item itemvalue="Application.ListaDupla" />
-        <item itemvalue="Application.ListaEncadeada" />
-        <item itemvalue="Application.ListaEstaticaGenerica" />
-=======
-      <item itemvalue="Application.Prova_01" />
-      <item itemvalue="Application.ListaEstatica" />
-      <item itemvalue="Application.ListaEstaticaTests" />
-      <item itemvalue="Application.ListaDuplaTests (1)" />
-      <item itemvalue="Application.ListaDupla" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ListaDupla" />
-        <item itemvalue="Application.ListaDuplaTests (1)" />
-        <item itemvalue="Application.Prova_01" />
-        <item itemvalue="Application.ListaEstatica" />
-        <item itemvalue="Application.ListaEstaticaTests" />
->>>>>>> master
+        <item itemvalue="Application.PilhaVetorTests" />
+        <item itemvalue="Application.PilhaVetor" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="530142b7-8628-4884-bdea-00f7adf6feb1" name="Default Changelist" comment="" />
-      <created>1552353340344</created>
+      <changelist id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="" />
+      <created>1555874138728</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1552353340344</updated>
-      <workItem from="1552353348250" duration="3543000" />
-      <workItem from="1552431071880" duration="803000" />
-      <workItem from="1552433979766" duration="1306000" />
-      <workItem from="1552436216710" duration="204000" />
-      <workItem from="1552957527868" duration="4295000" />
-      <workItem from="1553037817849" duration="3741000" />
-      <workItem from="1553210795769" duration="4110000" />
-      <workItem from="1553643020598" duration="4622000" />
-      <workItem from="1553974657648" duration="9270000" />
-      <workItem from="1554160175659" duration="55000" />
-      <workItem from="1554246313751" duration="4976000" />
-<<<<<<< HEAD
-      <workItem from="1554770209710" duration="675000" />
-      <workItem from="1554775686239" duration="15000" />
-      <workItem from="1554946633619" duration="181000" />
-=======
-      <workItem from="1554422713396" duration="3497000" />
->>>>>>> master
+      <updated>1555874138728</updated>
+      <workItem from="1555874140177" duration="4081000" />
+      <workItem from="1555878677093" duration="1778000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="37811000" />
-=======
-    <option name="totallyTimeSpent" value="40422000" />
->>>>>>> master
+  <component name="TestHistory">
+    <history-entry file="PilhaVetorTest_estaVazia - 2019.04.21 at 17h 12m 49s.xml">
+      <configuration name="PilhaVetorTest.estaVazia" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PilhaVetorTest_estaVazia - 2019.04.21 at 17h 13m 11s.xml">
+      <configuration name="PilhaVetorTest.estaVazia" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PilhaVetorTest_testEstaVazia - 2019.04.21 at 17h 17m 42s.xml">
+      <configuration name="PilhaVetorTest.testEstaVazia" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PilhaVetorTest_testEstaVazia - 2019.04.21 at 17h 18m 02s.xml">
+      <configuration name="PilhaVetorTest.testEstaVazia" configurationId="JUnit" />
+    </history-entry>
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-<<<<<<< HEAD
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19172932" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1820623" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.224581" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23575419" />
-=======
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1885906" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.224581" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20567375" />
->>>>>>> master
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34900284" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22569832" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32960895" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.1858156" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Structure" order="1" weight="0.16040269" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.24966443" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="9" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Maven" order="10" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.20335196" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32975295" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1885906" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.224581" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20567375" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34900284" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32960895" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.1858156" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.17937702" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.20335196" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.31731844" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Structure" order="1" weight="0.16040269" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.24966443" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="9" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Maven" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32975295" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,336 +355,93 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="((NoListaDupla)((ListaDupla)this).primeiro).proximo" custom="br.furb.model.NoListaDupla,br.furb.listas.ListaDupla" />
-        <watch expression="((NoListaDupla)((ListaDupla)this).primeiro).anterior" custom="br.furb.model.NoListaDupla,br.furb.listas.ListaDupla" />
-        <watch expression="primeiro" language="JAVA" />
-        <watch expression="novo.info" />
-      </configuration>
-    </watches-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/br/furb/ListaEstatica.java" />
-    <entry file="file://$PROJECT_DIR$/src/br/furb/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha/PilhaCheiaException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="25" selection-start-line="6" selection-end-line="9" />
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaEstaticaGenerica.java">
+    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha/PilhaVaziaException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-          <folding>
-            <element signature="method#main#0;class#ListaEstaticaGenerica#0" />
-            <element signature="method#redimensionar#0;class#ListaEstaticaGenerica#0" />
-            <element signature="method#inserir#0;class#ListaEstaticaGenerica#0" />
-            <element signature="method#exibir#0;class#ListaEstaticaGenerica#0" />
-            <element signature="method#buscar#0;class#ListaEstaticaGenerica#0" />
-            <element signature="method#retirar#0;class#ListaEstaticaGenerica#0" />
-            <element signature="method#liberar#0;class#ListaEstaticaGenerica#0" />
-            <element signature="method#obterElemento#0;class#ListaEstaticaGenerica#0" />
-            <element signature="method#toString#0;class#ListaEstaticaGenerica#0" />
-          </folding>
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaEstaticaIntTests.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1232">
-          <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+        <state relative-caret-position="242">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaEstaticaInt.java">
+    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha/PilhaVetorTest.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha_exemplo/Pilha.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding>
-            <element signature="method#ListaEstaticaInt#0;class#ListaEstaticaInt#0" />
-            <element signature="method#redimensionar#0;class#ListaEstaticaInt#0" />
-            <element signature="method#inserir#0;class#ListaEstaticaInt#0" />
-            <element signature="method#inserirOrdenado#0;class#ListaEstaticaInt#0" />
-            <element signature="method#inserirOrdenado2#0;class#ListaEstaticaInt#0" />
-            <element signature="method#inserirOrdenado4#0;class#ListaEstaticaInt#0" />
-            <element signature="method#exibir#0;class#ListaEstaticaInt#0" />
-            <element signature="method#buscar#0;class#ListaEstaticaInt#0" />
-            <element signature="method#retirar#0;class#ListaEstaticaInt#0" />
-            <element signature="method#liberar#0;class#ListaEstaticaInt#0" />
-            <element signature="method#obterElemento#0;class#ListaEstaticaInt#0" />
-            <element signature="method#toString#0;class#ListaEstaticaInt#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/model/NoListaDupla.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/br/furb/model/NodeList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
->>>>>>> master
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaEstaticaGenericaTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaEncadeadaTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="method#caso3#0;class#ListaEncadeadaTests#0" />
-            <element signature="method#caso4#0;class#ListaEncadeadaTests#0" />
-            <element signature="method#caso5#0;class#ListaEncadeadaTests#0" />
-            <element signature="method#caso6#0;class#ListaEncadeadaTests#0" />
-            <element signature="method#caso7#0;class#ListaEncadeadaTests#0" />
-            <element signature="method#caso8#0;class#ListaEncadeadaTests#0" />
-            <element signature="method#caso9#0;class#ListaEncadeadaTests#0" />
-            <element signature="method#caso10#0;class#ListaEncadeadaTests#0" />
-            <element signature="method#caso11#0;class#ListaEncadeadaTests#0" />
-            <element signature="method#caso13#0;class#ListaEncadeadaTests#0" />
-            <element signature="method#caso14#0;class#ListaEncadeadaTests#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaDuplaTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="130" column="30" lean-forward="true" selection-start-line="130" selection-start-column="30" selection-end-line="130" selection-end-column="30" />
-          <folding>
-            <element signature="method#caso1#0;class#ListaDuplaTests#0" />
-            <element signature="method#caso2#0;class#ListaDuplaTests#0" />
-            <element signature="method#caso3#0;class#ListaDuplaTests#0" />
-            <element signature="method#caso4#0;class#ListaDuplaTests#0" />
-            <element signature="method#caso5#0;class#ListaDuplaTests#0" />
-            <element signature="method#caso6#0;class#ListaDuplaTests#0" />
-            <element signature="method#caso7#0;class#ListaDuplaTests#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaEncadeada.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="e#686#687#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-          </folding>
-=======
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/br/furb/prova1_semestres_anteriores/NoLista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
->>>>>>> master
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/prova1_semestres_anteriores/Aluno.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-          <folding>
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaEstaticaIntTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="107" column="5" lean-forward="true" selection-start-line="3" selection-end-line="107" selection-end-column="5" />
-          <folding>
-            <element signature="method#ListaEstaticaIntTests#0;class#ListaEstaticaIntTests#0" />
-            <element signature="method#caso5#0;class#ListaEstaticaIntTests#0" />
-            <element signature="method#caso6#0;class#ListaEstaticaIntTests#0" />
-            <element signature="method#caso9#0;class#ListaEstaticaIntTests#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaEstaticaInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="108" selection-end-column="5" />
-          <folding>
-            <element signature="method#ListaEstaticaInt#0;class#ListaEstaticaInt#0" />
-            <element signature="method#redimensionar#0;class#ListaEstaticaInt#0" />
-            <element signature="method#exibir#0;class#ListaEstaticaInt#0" />
-            <element signature="method#buscar#0;class#ListaEstaticaInt#0" />
-            <element signature="method#retirar#0;class#ListaEstaticaInt#0" />
-            <element signature="method#liberar#0;class#ListaEstaticaInt#0" />
-            <element signature="method#obterElemento#0;class#ListaEstaticaInt#0" />
-            <element signature="method#toString#0;class#ListaEstaticaInt#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prova1/ListaEstaticaTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prova1/ListaEstatica.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prova1/NoListaDupla.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/model/NoListaDupla.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="264">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-=======
-        <state relative-caret-position="352">
-          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
->>>>>>> master
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaDupla.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="220" column="5" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="220" selection-end-column="5" />
-          <folding>
-            <element signature="method#main#0;class#ListaDupla#0" />
-            <element signature="e#308#332#0" />
-            <element signature="method#inserir#0;class#ListaDupla#0" />
-            <element signature="method#inserirIndex#0;class#ListaDupla#0" />
-            <element signature="method#exibir#0;class#ListaDupla#0" />
-            <element signature="method#buscar#0;class#ListaDupla#0" />
-            <element signature="method#retirar#0;class#ListaDupla#0" />
-            <element signature="method#obterUltimo#0;class#ListaDupla#0" />
-            <element signature="method#ordemInversa#0;class#ListaDupla#0" />
-            <element signature="method#getLength#0;class#ListaDupla#0" />
-            <element signature="method#obterNo#0;class#ListaDupla#0" />
-            <element signature="method#liberar#0;class#ListaDupla#0" />
-            <element signature="method#toString#0;class#ListaDupla#0" />
-          </folding>
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/furb/pilha/Pilha.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="104">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/model/NodeList.java">
+    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha_exemplo/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-=======
-        <state relative-caret-position="424">
-          <caret line="134" column="5" lean-forward="true" selection-start-line="5" selection-end-line="134" selection-end-column="5" />
->>>>>>> master
+        <state relative-caret-position="176">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaDupla.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha/PilhaVetorTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/listas/ListaDuplaTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha_exemplo/PilhaVetor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha/PilhaVetorTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha/PilhaVetor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
           <folding>
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
+            <element signature="method#PilhaVetor#0;class#PilhaVetor#0" />
+            <element signature="method#push#0;class#PilhaVetor#0" />
+            <element signature="method#peek#0;class#PilhaVetor#0" />
+            <element signature="method#liberar#0;class#PilhaVetor#0" />
+            <element signature="method#concatenar#0;class#PilhaVetor#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/br/furb/prova1_semestres_anteriores/Lista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/prova1_semestres_anteriores/Prova_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prova1/ListaDuplaTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Prova1/ListaDupla.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding>
-            <element signature="method#main#0;class#ListaDupla#0" />
-            <element signature="method#clonar#0;class#ListaDupla#0" />
-            <element signature="method#inserir#0;class#ListaDupla#0" />
-            <element signature="method#exibir#0;class#ListaDupla#0" />
-            <element signature="method#buscar#0;class#ListaDupla#0" />
-            <element signature="method#getLength#0;class#ListaDupla#0" />
-            <element signature="method#obterNo#0;class#ListaDupla#0" />
-            <element signature="method#toString#0;class#ListaDupla#0" />
-          </folding>
->>>>>>> master
         </state>
       </provider>
     </entry>
@@ -901,7 +474,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>opencv-400</last-edited>
+          <last-edited>opencv-400.jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -930,6 +503,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

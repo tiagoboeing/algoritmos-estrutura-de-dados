@@ -12,6 +12,19 @@ public class PilhaVetor<T> implements Pilha<T> {
         this.tamanho = 0;
     }
 
+    public static void main(String[] args) {
+        PilhaVetorTests tests = new PilhaVetorTests(10);
+
+//        tests.caso1();
+//        tests.caso2();
+//        tests.caso3();
+//        tests.caso4();
+//        tests.caso5();
+//        tests.caso6();
+//        tests.caso7();
+//        tests.caso8();
+    }
+
     @Override
     public void push(T valor) {
         if(tamanho == limite){
