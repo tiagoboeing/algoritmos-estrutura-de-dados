@@ -10,6 +10,16 @@ public class FilaLista<T> implements Fila<T> {
         lista = new ListaEncadeada<>();
     }
 
+    public static void main(String[] args) {
+        FilaListaTests tests = new FilaListaTests();
+
+//        tests.caso1();
+//        tests.caso2();
+//        tests.caso3();
+//        tests.caso4();
+//        tests.caso5();
+    }
+
     @Override
     public void inserir(T v) {
         lista.inserirNoFinal(v);

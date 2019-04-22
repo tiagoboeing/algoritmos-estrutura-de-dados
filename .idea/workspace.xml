@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="" />
+    <list default="true" id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/br/furb/fila/FilaLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/furb/fila/FilaLista.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,60 +30,33 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="57" />
+          <entry key="JAVA" value="59" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1806" />
+          <entry key="JAVA" value="2155" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaVetor.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaListaTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="131" column="25" lean-forward="true" selection-start-line="131" selection-start-column="25" selection-end-line="131" selection-end-column="25" />
-              <folding>
-                <element signature="method#FilaVetor#0;class#FilaVetor#0" />
-                <element signature="method#inserir#0;class#FilaVetor#0" />
-                <element signature="method#peek#0;class#FilaVetor#0" />
-                <element signature="method#retirar#0;class#FilaVetor#0" />
-                <element signature="method#liberar#0;class#FilaVetor#0" />
-                <element signature="method#liberar2#0;class#FilaVetor#0" />
-                <element signature="method#toString#0;class#FilaVetor#0" />
-                <element signature="method#copiarValoresFila#0;class#FilaVetor#0" />
-                <element signature="method#empilhar#0;class#FilaVetor#0" />
-                <element signature="e#3978#4018#0" />
-                <element signature="method#encolher#0;class#FilaVetor#0" />
-                <element signature="e#4193#4194#0" expanded="true" />
-                <element signature="e#4220#4221#0" expanded="true" />
-                <element signature="e#4257#4258#0" expanded="true" />
-                <element signature="e#4289#4290#0" expanded="true" />
-                <element signature="e#4319#4320#0" expanded="true" />
-                <element signature="e#4348#4349#0" expanded="true" />
-                <element signature="e#4389#4390#0" expanded="true" />
-                <element signature="e#4425#4426#0" expanded="true" />
-                <element signature="e#4456#4457#0" expanded="true" />
-                <element signature="e#4486#4487#0" expanded="true" />
-                <element signature="e#4529#4530#0" expanded="true" />
-                <element signature="e#4567#4568#0" expanded="true" />
-                <element signature="e#4597#4598#0" expanded="true" />
-                <element signature="e#4626#4627#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="92">
+              <caret line="59" column="27" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaVetorTests.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaLista.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="125" column="5" lean-forward="true" selection-start-line="125" selection-start-column="5" selection-end-line="125" selection-end-column="5" />
+            <state relative-caret-position="357">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -117,10 +92,11 @@
         <option value="$PROJECT_DIR$/src/br/furb/pilha_lista/PilhaLista.java" />
         <option value="$PROJECT_DIR$/src/br/furb/fila/Fila.java" />
         <option value="$PROJECT_DIR$/src/br/furb/fila/Lista/ListaEncadeada.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/fila/FilaLista.java" />
         <option value="$PROJECT_DIR$/src/br/furb/fila/pilha/Pilha.java" />
         <option value="$PROJECT_DIR$/src/br/furb/fila/FilaVetor.java" />
         <option value="$PROJECT_DIR$/src/br/furb/fila/FilaVetorTests.java" />
+        <option value="$PROJECT_DIR$/src/br/furb/fila/FilaLista.java" />
+        <option value="$PROJECT_DIR$/src/br/furb/fila/FilaListaTests.java" />
       </list>
     </option>
   </component>
@@ -182,7 +158,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555898676086" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555899140652" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
@@ -221,7 +197,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FilaVetor">
+  <component name="RunManager" selected="Application.FilaLista">
+    <configuration name="FilaLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.furb.fila.FilaLista" />
+      <module name="algoritmos-estrutura-de-dados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.furb.fila.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FilaVetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.furb.fila.FilaVetor" />
       <module name="algoritmos-estrutura-de-dados" />
@@ -261,19 +250,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PilhaVetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.furb.pilha.PilhaVetor" />
-      <module name="algoritmos-estrutura-de-dados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.furb.pilha.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PilhaVetorTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.furb.pilha.PilhaVetorTests" />
       <module name="algoritmos-estrutura-de-dados" />
@@ -297,18 +273,18 @@
     <list>
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.PilhaVetorTests" />
-      <item itemvalue="Application.PilhaVetor" />
       <item itemvalue="Application.PilhaListaTests" />
       <item itemvalue="Application.PilhaLista" />
       <item itemvalue="Application.FilaVetor" />
+      <item itemvalue="Application.FilaLista" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FilaLista" />
         <item itemvalue="Application.FilaVetor" />
         <item itemvalue="Application.PilhaLista" />
         <item itemvalue="Application.PilhaListaTests" />
         <item itemvalue="Application.PilhaVetorTests" />
-        <item itemvalue="Application.PilhaVetor" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +296,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555874138728</updated>
       <workItem from="1555874140177" duration="4081000" />
-      <workItem from="1555878677093" duration="6746000" />
+      <workItem from="1555878677093" duration="7210000" />
     </task>
     <servers />
   </component>
@@ -339,7 +315,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10827000" />
+    <option name="totallyTimeSpent" value="11291000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -578,13 +554,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaLista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaVaziaException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -627,6 +596,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaVetorTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3750">
+          <caret line="125" column="5" lean-forward="true" selection-start-line="125" selection-start-column="5" selection-end-line="125" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaVetor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
@@ -661,10 +637,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaVetorTests.java">
+    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaLista.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="125" column="5" lean-forward="true" selection-start-line="125" selection-start-column="5" selection-end-line="125" selection-end-column="5" />
+        <state relative-caret-position="357">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaListaTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="59" column="27" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
         </state>
       </provider>
     </entry>
