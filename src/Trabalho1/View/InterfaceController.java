@@ -37,7 +37,7 @@ public class InterfaceController {
 
             caminhoArquivoSalvo = arquivo.getAbsolutePath();
             this.resultadoAnalise.appendText("Um arquivo foi selecionado: \n" + caminhoArquivoSalvo);
-            this.resultadoAnalise.appendText("\n");
+            this.resultadoAnalise.appendText("\n \n");
 
 //            this.resultadoAnalise.appendText(this.conteudoArquivo);
 
@@ -89,6 +89,10 @@ public class InterfaceController {
                 "<p>Meu segundo parágrafo.</p>\n" +
                 "</body>\n" +
                 "</html>";
+
+        // realizar análise da estrutura
+        AvaliarEstrutura analisar = new AvaliarEstrutura();
+        this.resultadoAnalise.appendText(analisar.validaEstrutura(conteudoArquivo));
     }
 
     private void limpaResultados(){
