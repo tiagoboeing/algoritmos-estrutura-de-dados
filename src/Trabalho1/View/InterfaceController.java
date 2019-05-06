@@ -39,9 +39,7 @@ public class InterfaceController {
             this.resultadoAnalise.appendText("Um arquivo foi selecionado: \n" + caminhoArquivoSalvo);
             this.resultadoAnalise.appendText("\n \n");
 
-//            this.resultadoAnalise.appendText(this.conteudoArquivo);
-
-            // realizar análise da estrutura
+            // realiza análise da estrutura
             AvaliarEstrutura analisar = new AvaliarEstrutura();
             this.resultadoAnalise.appendText(analisar.validaEstrutura(conteudoArquivo));
 

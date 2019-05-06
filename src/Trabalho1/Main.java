@@ -20,8 +20,8 @@ public class Main extends Application {
             primaryStage.setScene(scene);
             primaryStage.setTitle("Analisar HTML");
             primaryStage.setResizable(false);
-            primaryStage.setMinWidth(500);
-            primaryStage.setMinHeight(300);
+            primaryStage.setMinWidth(600);
+            primaryStage.setMinHeight(550);
             primaryStage.show();
         } catch(Exception e) {
             e.printStackTrace();

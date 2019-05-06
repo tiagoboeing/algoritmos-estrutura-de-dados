@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="">
+    <list default="true" id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="Quebra de linha e pasta de materiais">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Materiais/Trabalho1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/Trabalho1/Controller/AvaliarEstrutura.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/Trabalho1/Controller/AvaliarEstrutura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/Trabalho1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/Trabalho1/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/Trabalho1/View/InterfaceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/Trabalho1/View/InterfaceController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trabalho1/View/Interface.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho1/View/Interface.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/HTML/CriarHTML.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="196">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -36,26 +43,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-              <folding>
-                <element signature="method#verConteudo#0;class#InterfaceController#0" />
-                <element signature="method#carregaArquivoTeste#0;class#InterfaceController#0" />
-                <element signature="method#arquivoAberto#0;class#InterfaceController#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+            <state relative-caret-position="298">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
               <folding>
-                <element signature="method#empilhaTags#0;class#AvaliarEstrutura#0" />
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#690#691#0" expanded="true" />
+                <element signature="e#3242#3293#0" />
               </folding>
             </state>
           </provider>
@@ -89,11 +84,14 @@
       <find>pilha</find>
       <find>gr</find>
       <find>ca</find>
-      <find>singleton</find>
       <find>total de ta</find>
       <find>singletonTagsList</find>
       <find>pus</find>
       <find>pilhaTags</find>
+      <find>tag de fecha</find>
+      <find>tag de fe</find>
+      <find>scanner</find>
+      <find>singleton</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -117,7 +115,6 @@
         <option value="$PROJECT_DIR$/src/br/furb/fila/FilaLista.java" />
         <option value="$PROJECT_DIR$/src/br/furb/fila/FilaListaTests.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/View/Interface.fxml" />
-        <option value="$PROJECT_DIR$/src/Trabalho1/Main.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/View/ConteudoArquivo.fxml" />
         <option value="$PROJECT_DIR$/src/Trabalho1/View/ConteudoArquivoController.java" />
         <option value="$PROJECT_DIR$/src/trabalho1_semestres_anteriores/lista/Demo.java" />
@@ -136,8 +133,9 @@
         <option value="$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/HTML/CriarHTML.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/Utils/Files.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/Utils/Regex.java" />
-        <option value="$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java" />
+        <option value="$PROJECT_DIR$/src/Trabalho1/Main.java" />
+        <option value="$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" />
       </list>
     </option>
   </component>
@@ -170,6 +168,40 @@
               <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
               <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="furb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="furb" type="462c0819:PsiDirectoryNode" />
+              <item name="trabalho1_semestres_anteriores" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="furb" type="462c0819:PsiDirectoryNode" />
+              <item name="trabalho1_semestres_anteriores" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Trabalho1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Trabalho1" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -344,7 +376,7 @@
       <workItem from="1556579175432" duration="1198000" />
       <workItem from="1556681990548" duration="200000" />
       <workItem from="1557079997683" duration="22685000" />
-      <workItem from="1557112071106" duration="918000" />
+      <workItem from="1557112071106" duration="5258000" />
     </task>
     <task id="LOCAL-00001" summary="Quebra de linha e pasta de materiais">
       <created>1557112960287</created>
@@ -371,12 +403,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36892000" />
+    <option name="totallyTimeSpent" value="41232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19271949" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19271949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -385,7 +418,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32195678" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2536974" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2536974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -448,13 +481,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Quebra de linha e pasta de materiais" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha_lista/NoLista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/furb/pilha_lista/ListaEncadeada.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -581,18 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -773,16 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/HTML/CriarHTML.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/Regex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -790,24 +794,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java">
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        <state relative-caret-position="328">
+          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
           <folding>
-            <element signature="method#empilhaTags#0;class#AvaliarEstrutura#0" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="182">
+          <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
           <folding>
-            <element signature="method#verConteudo#0;class#InterfaceController#0" />
             <element signature="method#carregaArquivoTeste#0;class#InterfaceController#0" />
             <element signature="method#arquivoAberto#0;class#InterfaceController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="535" column="18" selection-start-line="535" selection-start-column="18" selection-end-line="535" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/HTML/CriarHTML.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#3242#3293#0" />
           </folding>
         </state>
       </provider>
