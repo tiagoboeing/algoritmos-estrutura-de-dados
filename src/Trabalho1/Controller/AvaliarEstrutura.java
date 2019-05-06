@@ -31,19 +31,21 @@ public class AvaliarEstrutura {
      * @param conteudo do arquivo HTML
      * Retorna mensagem a ser exibida na interface
      */
-    public void validaEstrutura(String conteudo){
+    public String validaEstrutura(String conteudo){
 
         // busca tags de abertura
         this.empilhaTags(Regex.aberturaTags, conteudo);
 
-        System.out.println(this.singletonList.estaVazia());
+        // busca tags de fechamento e retira da pilha
+        return this.desempilhaTags(Regex.fechamentoTags, conteudo);
+
     }
 
     /*
-    * Empilha tags em uma lista de acordo com um Regex
-    * @param regex Expressão regular para identificar tags
-    * @param conteudoArquivo Texto a ser analisado
-    */
+     * Empilha tags em uma lista de acordo com um Regex
+     * @param regex Expressão regular para identificar tags
+     * @param conteudoArquivo Texto a ser analisado
+     */
     public void empilhaTags(String regex, String conteudoArquivo){
         final Pattern pattern = Pattern.compile(regex, Pattern.MULTILINE);
         final Matcher matcher = pattern.matcher(conteudoArquivo);
@@ -68,23 +70,23 @@ public class AvaliarEstrutura {
      * @param regex Expressão regular para identificar tags
      * @param conteudoArquivo Texto a ser analisado
      */
-    public void desempilhaTags(String regex, String conteudoArquivo){
+    public String desempilhaTags(String regex, String conteudoArquivo){
         final Pattern pattern = Pattern.compile(regex, Pattern.MULTILINE);
         final Matcher matcher = pattern.matcher(conteudoArquivo);
 
         // varre buscando por tags de abertura (<a>, <p>, <h1>, ...)
         while (matcher.find()) {
             String tag = matcher.group(2);
-            Boolean isSingleton = this.singletonTagsList.buscar(tag) != null;
+            String dadoDesempilhado = this.pilhaTags.pop();
 
-            // se não for singleton, coloca na lista
-            if(!isSingleton){
-                this.pilhaTags.pop(tag);
-
-                // insere na lista para ser possível contar vezes utilizada
-                this.singletonList.inserir(tag);
+            // o dado desempilhado precisa ser igual a tag de fechamento (formar par)
+            if(!dadoDesempilhado.equalsIgnoreCase(tag)) {
+                return "Foi encontrada uma tag final inesperada! \n" +
+                        "Esperava-se a tag final: '" + tag + "' \n" +
+                        "Foi encontrada: '" + dadoDesempilhado + "'";
             }
         }
+        return "";
     }
 
     /*

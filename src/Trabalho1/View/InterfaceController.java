@@ -43,8 +43,7 @@ public class InterfaceController {
 
             // realizar análise da estrutura
             AvaliarEstrutura analisar = new AvaliarEstrutura();
-//            this.resultadoAnalise.appendText(analisar.validaEstruturaFile(arquivo));
-            analisar.validaEstrutura(conteudoArquivo);
+            this.resultadoAnalise.appendText(analisar.validaEstrutura(conteudoArquivo));
 
         } else {
             this.arquivoAberto(false); // desativa botões e define labels

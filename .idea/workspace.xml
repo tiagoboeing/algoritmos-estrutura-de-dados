@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
-              <caret line="46" column="54" lean-forward="true" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
               <folding>
                 <element signature="method#verConteudo#0;class#InterfaceController#0" />
                 <element signature="method#carregaArquivoTeste#0;class#InterfaceController#0" />
@@ -50,16 +50,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="241">
+              <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
               <folding>
                 <element signature="e#431#439#0" expanded="true" />
                 <element signature="e#635#636#0" expanded="true" />
                 <element signature="e#674#675#0" expanded="true" />
-                <element signature="method#validaEstrutura#0;class#AvaliarEstrutura#0" />
+                <element signature="method#empilhaTags#0;class#AvaliarEstrutura#0" />
+                <element signature="e#3051#8623#1" />
               </folding>
             </state>
           </provider>
@@ -139,9 +140,9 @@
         <option value="$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaVetor.java" />
         <option value="$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/HTML/CriarHTML.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/Utils/Files.java" />
-        <option value="$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/Utils/Regex.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" />
+        <option value="$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java" />
       </list>
     </option>
   </component>
@@ -390,7 +391,7 @@
       <workItem from="1555878677093" duration="7810000" />
       <workItem from="1556579175432" duration="1198000" />
       <workItem from="1556681990548" duration="200000" />
-      <workItem from="1557079997683" duration="21421000" />
+      <workItem from="1557079997683" duration="22685000" />
     </task>
     <servers />
   </component>
@@ -409,7 +410,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34710000" />
+    <option name="totallyTimeSpent" value="35974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -425,7 +426,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32195678" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2536974" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2536974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -836,18 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="46" column="54" lean-forward="true" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
-          <folding>
-            <element signature="method#verConteudo#0;class#InterfaceController#0" />
-            <element signature="method#carregaArquivoTeste#0;class#InterfaceController#0" />
-            <element signature="method#arquivoAberto#0;class#InterfaceController#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/Regex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -869,13 +858,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="241">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
           <folding>
             <element signature="e#431#439#0" expanded="true" />
             <element signature="e#635#636#0" expanded="true" />
             <element signature="e#674#675#0" expanded="true" />
-            <element signature="method#validaEstrutura#0;class#AvaliarEstrutura#0" />
+            <element signature="method#empilhaTags#0;class#AvaliarEstrutura#0" />
+            <element signature="e#3051#8623#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="method#verConteudo#0;class#InterfaceController#0" />
+            <element signature="method#carregaArquivoTeste#0;class#InterfaceController#0" />
+            <element signature="method#arquivoAberto#0;class#InterfaceController#0" />
           </folding>
         </state>
       </provider>
