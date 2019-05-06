@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="algoritmos-estrutura-de-dados:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/algoritmos_estrutura_de_dados_jar</output-path>
+    <root id="archive" name="algoritmos-estrutura-de-dados.jar">
+      <element id="module-output" name="algoritmos-estrutura-de-dados" />
+    </root>
+  </artifact>
+</component>
