@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="Quebra de linha e pasta de materiais">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/Prova1/ListaDupla.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/Prova1/ListaDuplaTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/Prova1/ListaEstatica.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/Prova1/ListaEstaticaTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/Prova1/NoListaDupla.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/Model/NoListaDupla.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/Model/NodeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/listas/ListaDupla.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/listas/ListaDuplaTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/listas/ListaEncadeada.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/listas/ListaEncadeadaTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/listas/ListaEstaticaGenerica.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/listas/ListaEstaticaGenericaTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/listas/ListaEstaticaInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/listas/ListaEstaticaIntTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/prova1_semestres_anteriores/Aluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/prova1_semestres_anteriores/Lista.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/prova1_semestres_anteriores/NoLista.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/prova1_semestres_anteriores/Prova_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" afterDir="false" />
-    </list>
+    <list default="true" id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="Quebra de linha e pasta de materiais" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,13 +77,13 @@
                 <node x="0.0" y="919.0">Trabalho1.Utils.pilha.PilhaVaziaException</node>
                 <node x="236.0" y="801.0">Trabalho1.Main</node>
                 <node x="656.0" y="801.0">Trabalho1.Utils.pilha.PilhaCheiaException</node>
-                <node x="194.0" y="189.0">Trabalho1.Utils.pilha.PilhaVetor</node>
+                <node x="0.0" y="189.0">Trabalho1.Utils.pilha.PilhaVetor</node>
                 <node x="199.0" y="919.0">Trabalho1.Utils.lista.ListaVaziaException</node>
                 <node x="558.0" y="484.0">Trabalho1.View.ConteudoArquivoController</node>
                 <node x="797.0" y="484.0">Trabalho1.Utils.Files</node>
-                <node x="0.0" y="222.0">Trabalho1.Utils.pilha.PilhaLista</node>
+                <node x="258.0" y="222.0">Trabalho1.Utils.pilha.PilhaLista</node>
                 <node x="279.0" y="484.0">Trabalho1.Controller.AvaliarEstrutura</node>
-                <node x="113.0" y="0.0">Trabalho1.Model.Pilha</node>
+                <node x="145.0" y="0.0">Trabalho1.Model.Pilha</node>
                 <node x="0.0" y="484.0">Trabalho1.View.InterfaceController</node>
                 <node x="449.0" y="801.0">Trabalho1.Utils.lista.NoLista</node>
                 <node x="477.0" y="0.0">Trabalho1.Utils.lista.Lista</node>
@@ -116,15 +93,15 @@
               <edges>
                 <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Model.Pilha">
                   <point x="0.0" y="-92.0" />
-                  <point x="87.0" y="164.0" />
-                  <point x="156.5" y="164.0" />
-                  <point x="-43.5" y="69.5" />
+                  <point x="345.0" y="164.0" />
+                  <point x="275.5" y="164.0" />
+                  <point x="43.5" y="69.5" />
                 </edge>
                 <edge source="Trabalho1.Utils.pilha.PilhaVetor" target="Trabalho1.Model.Pilha">
                   <point x="0.0" y="-125.0" />
-                  <point x="313.0" y="164.0" />
-                  <point x="243.5" y="164.0" />
-                  <point x="43.5" y="69.5" />
+                  <point x="119.0" y="164.0" />
+                  <point x="188.5" y="164.0" />
+                  <point x="-43.5" y="69.5" />
                 </edge>
               </edges>
               <settings layout="Hierarchic Group" zoom="0.7249417249417249" x="401.5" y="409.0" />
@@ -344,7 +321,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555903255300" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557272377906" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
@@ -503,7 +480,7 @@
       <workItem from="1556681990548" duration="200000" />
       <workItem from="1557079997683" duration="22685000" />
       <workItem from="1557112071106" duration="5448000" />
-      <workItem from="1557270224871" duration="1171000" />
+      <workItem from="1557270224871" duration="1450000" />
     </task>
     <task id="LOCAL-00001" summary="Quebra de linha e pasta de materiais">
       <created>1557112960287</created>
@@ -530,11 +507,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42593000" />
+    <option name="totallyTimeSpent" value="42872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19530201" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -987,13 +963,13 @@
             <node x="0.0" y="919.0">Trabalho1.Utils.pilha.PilhaVaziaException</node>
             <node x="236.0" y="801.0">Trabalho1.Main</node>
             <node x="656.0" y="801.0">Trabalho1.Utils.pilha.PilhaCheiaException</node>
-            <node x="194.0" y="189.0">Trabalho1.Utils.pilha.PilhaVetor</node>
+            <node x="0.0" y="189.0">Trabalho1.Utils.pilha.PilhaVetor</node>
             <node x="199.0" y="919.0">Trabalho1.Utils.lista.ListaVaziaException</node>
             <node x="558.0" y="484.0">Trabalho1.View.ConteudoArquivoController</node>
             <node x="797.0" y="484.0">Trabalho1.Utils.Files</node>
-            <node x="0.0" y="222.0">Trabalho1.Utils.pilha.PilhaLista</node>
+            <node x="258.0" y="222.0">Trabalho1.Utils.pilha.PilhaLista</node>
             <node x="279.0" y="484.0">Trabalho1.Controller.AvaliarEstrutura</node>
-            <node x="113.0" y="0.0">Trabalho1.Model.Pilha</node>
+            <node x="145.0" y="0.0">Trabalho1.Model.Pilha</node>
             <node x="0.0" y="484.0">Trabalho1.View.InterfaceController</node>
             <node x="449.0" y="801.0">Trabalho1.Utils.lista.NoLista</node>
             <node x="477.0" y="0.0">Trabalho1.Utils.lista.Lista</node>
@@ -1003,15 +979,15 @@
           <edges>
             <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Model.Pilha">
               <point x="0.0" y="-92.0" />
-              <point x="87.0" y="164.0" />
-              <point x="156.5" y="164.0" />
-              <point x="-43.5" y="69.5" />
+              <point x="345.0" y="164.0" />
+              <point x="275.5" y="164.0" />
+              <point x="43.5" y="69.5" />
             </edge>
             <edge source="Trabalho1.Utils.pilha.PilhaVetor" target="Trabalho1.Model.Pilha">
               <point x="0.0" y="-125.0" />
-              <point x="313.0" y="164.0" />
-              <point x="243.5" y="164.0" />
-              <point x="43.5" y="69.5" />
+              <point x="119.0" y="164.0" />
+              <point x="188.5" y="164.0" />
+              <point x="-43.5" y="69.5" />
             </edge>
           </edges>
           <settings layout="Hierarchic Group" zoom="0.7249417249417249" x="401.5" y="409.0" />
