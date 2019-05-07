@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="Quebra de linha e pasta de materiais" />
+    <list default="true" id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="Quebra de linha e pasta de materiais">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/Prova1/ListaDupla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/Prova1/ListaDuplaTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/Prova1/ListaEstatica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/Prova1/ListaEstaticaTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/Prova1/NoListaDupla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/Model/NoListaDupla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/Model/NodeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/listas/ListaDupla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/listas/ListaDuplaTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/listas/ListaEncadeada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/listas/ListaEncadeadaTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/listas/ListaEstaticaGenerica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/listas/ListaEstaticaGenericaTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/listas/ListaEstaticaInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/listas/ListaEstaticaIntTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/prova1_semestres_anteriores/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/prova1_semestres_anteriores/Lista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/prova1_semestres_anteriores/NoLista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos-estrutura-de-dados/br/furb/prova1_semestres_anteriores/Prova_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,18 +41,143 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="213280295">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JAVA/Trabalho1" value="1" />
+          <entry key="Utils" value="1" />
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+          <entry key="UML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="77" column="17" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+            <state relative-caret-position="156">
+              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
               <folding>
+                <element signature="e#431#439#0" expanded="true" />
                 <element signature="e#651#652#0" expanded="true" />
                 <element signature="e#690#691#0" expanded="true" />
-                <element signature="e#3242#3293#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/Trabalho1">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>Trabalho1</OriginalElement>
+              <nodes>
+                <node x="0.0" y="919.0">Trabalho1.Utils.pilha.PilhaVaziaException</node>
+                <node x="236.0" y="801.0">Trabalho1.Main</node>
+                <node x="656.0" y="801.0">Trabalho1.Utils.pilha.PilhaCheiaException</node>
+                <node x="194.0" y="189.0">Trabalho1.Utils.pilha.PilhaVetor</node>
+                <node x="199.0" y="919.0">Trabalho1.Utils.lista.ListaVaziaException</node>
+                <node x="558.0" y="484.0">Trabalho1.View.ConteudoArquivoController</node>
+                <node x="797.0" y="484.0">Trabalho1.Utils.Files</node>
+                <node x="0.0" y="222.0">Trabalho1.Utils.pilha.PilhaLista</node>
+                <node x="279.0" y="484.0">Trabalho1.Controller.AvaliarEstrutura</node>
+                <node x="113.0" y="0.0">Trabalho1.Model.Pilha</node>
+                <node x="0.0" y="484.0">Trabalho1.View.InterfaceController</node>
+                <node x="449.0" y="801.0">Trabalho1.Utils.lista.NoLista</node>
+                <node x="477.0" y="0.0">Trabalho1.Utils.lista.Lista</node>
+                <node x="0.0" y="801.0">Trabalho1.Utils.Regex</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Model.Pilha">
+                  <point x="0.0" y="-92.0" />
+                  <point x="87.0" y="164.0" />
+                  <point x="156.5" y="164.0" />
+                  <point x="-43.5" y="69.5" />
+                </edge>
+                <edge source="Trabalho1.Utils.pilha.PilhaVetor" target="Trabalho1.Model.Pilha">
+                  <point x="0.0" y="-125.0" />
+                  <point x="313.0" y="164.0" />
+                  <point x="243.5" y="164.0" />
+                  <point x="43.5" y="69.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.7249417249417249" x="401.5" y="409.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+                <Category>Methods</Category>
+                <Category>Fields</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/Trabalho1.Utils">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>Trabalho1.Utils</OriginalElement>
+              <nodes>
+                <node x="200.0" y="436.0">Trabalho1.Utils.pilha.PilhaVaziaException</node>
+                <node x="283.0" y="0.0">Trabalho1.Utils.pilha.PilhaLista</node>
+                <node x="0.0" y="318.0">Trabalho1.Utils.Files</node>
+                <node x="0.0" y="436.0">Trabalho1.Utils.pilha.PilhaCheiaException</node>
+                <node x="0.0" y="0.0">Trabalho1.Utils.pilha.PilhaVetor</node>
+                <node x="399.0" y="436.0">Trabalho1.Utils.lista</node>
+                <node x="238.0" y="318.0">Trabalho1.Utils.Regex</node>
+              </nodes>
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="-234.5" y="117.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Constructors</Category>
+                <Category>Fields</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/Regex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -61,6 +209,8 @@
       <find>tag de fe</find>
       <find>scanner</find>
       <find>singleton</find>
+      <find>pilhavetor</find>
+      <find>pilhalista</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -108,6 +258,12 @@
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="705" />
@@ -121,6 +277,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,18 +288,7 @@
             <path>
               <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
               <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
-              <item name="Materiais" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="furb" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
@@ -150,11 +296,40 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Trabalho1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Trabalho1" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Trabalho1" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Trabalho1" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+              <item name="lista" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Trabalho1" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+              <item name="pilha" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -175,7 +350,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Materiais" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -328,6 +503,7 @@
       <workItem from="1556681990548" duration="200000" />
       <workItem from="1557079997683" duration="22685000" />
       <workItem from="1557112071106" duration="5448000" />
+      <workItem from="1557270224871" duration="1171000" />
     </task>
     <task id="LOCAL-00001" summary="Quebra de linha e pasta de materiais">
       <created>1557112960287</created>
@@ -354,13 +530,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41422000" />
+    <option name="totallyTimeSpent" value="42593000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19271949" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19530201" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -369,7 +545,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32195678" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2536974" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25325614" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -427,25 +603,14 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Quebra de linha e pasta de materiais" />
     <option name="LAST_COMMIT_MESSAGE" value="Quebra de linha e pasta de materiais" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha_lista/ListaEncadeada.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha_lista/PilhaListaTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/furb/pilha_lista/PilhaLista.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
@@ -644,17 +809,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/Lista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1229">
-          <caret line="126" selection-start-line="126" selection-end-line="126" />
-          <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/Demo.java" />
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaCheiaException.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -691,13 +845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaVetor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/HTML/LerArquivo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
@@ -712,36 +859,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="609" column="11" selection-start-line="609" selection-start-column="11" selection-end-line="609" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Scanner.java" />
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/Files.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-229">
           <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaLista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/Regex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -766,13 +888,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/regex/Matcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="535" column="18" selection-start-line="535" selection-start-column="18" selection-end-line="535" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/regex/Matcher.java" />
     <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/HTML/CriarHTML.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -783,15 +899,131 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaLista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaVetor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-798">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/Lista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="121" column="22" lean-forward="true" selection-start-line="121" selection-end-line="123" />
+          <folding>
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="77" column="17" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+        <state relative-caret-position="156">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
           <folding>
+            <element signature="e#431#439#0" expanded="true" />
             <element signature="e#651#652#0" expanded="true" />
             <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#3242#3293#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/Regex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Trabalho1.Utils">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Trabalho1.Utils</OriginalElement>
+          <nodes>
+            <node x="200.0" y="436.0">Trabalho1.Utils.pilha.PilhaVaziaException</node>
+            <node x="283.0" y="0.0">Trabalho1.Utils.pilha.PilhaLista</node>
+            <node x="0.0" y="318.0">Trabalho1.Utils.Files</node>
+            <node x="0.0" y="436.0">Trabalho1.Utils.pilha.PilhaCheiaException</node>
+            <node x="0.0" y="0.0">Trabalho1.Utils.pilha.PilhaVetor</node>
+            <node x="399.0" y="436.0">Trabalho1.Utils.lista</node>
+            <node x="238.0" y="318.0">Trabalho1.Utils.Regex</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-234.5" y="117.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Trabalho1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Trabalho1</OriginalElement>
+          <nodes>
+            <node x="0.0" y="919.0">Trabalho1.Utils.pilha.PilhaVaziaException</node>
+            <node x="236.0" y="801.0">Trabalho1.Main</node>
+            <node x="656.0" y="801.0">Trabalho1.Utils.pilha.PilhaCheiaException</node>
+            <node x="194.0" y="189.0">Trabalho1.Utils.pilha.PilhaVetor</node>
+            <node x="199.0" y="919.0">Trabalho1.Utils.lista.ListaVaziaException</node>
+            <node x="558.0" y="484.0">Trabalho1.View.ConteudoArquivoController</node>
+            <node x="797.0" y="484.0">Trabalho1.Utils.Files</node>
+            <node x="0.0" y="222.0">Trabalho1.Utils.pilha.PilhaLista</node>
+            <node x="279.0" y="484.0">Trabalho1.Controller.AvaliarEstrutura</node>
+            <node x="113.0" y="0.0">Trabalho1.Model.Pilha</node>
+            <node x="0.0" y="484.0">Trabalho1.View.InterfaceController</node>
+            <node x="449.0" y="801.0">Trabalho1.Utils.lista.NoLista</node>
+            <node x="477.0" y="0.0">Trabalho1.Utils.lista.Lista</node>
+            <node x="0.0" y="801.0">Trabalho1.Utils.Regex</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Model.Pilha">
+              <point x="0.0" y="-92.0" />
+              <point x="87.0" y="164.0" />
+              <point x="156.5" y="164.0" />
+              <point x="-43.5" y="69.5" />
+            </edge>
+            <edge source="Trabalho1.Utils.pilha.PilhaVetor" target="Trabalho1.Model.Pilha">
+              <point x="0.0" y="-125.0" />
+              <point x="313.0" y="164.0" />
+              <point x="243.5" y="164.0" />
+              <point x="43.5" y="69.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7249417249417249" x="401.5" y="409.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>

@@ -2,11 +2,7 @@ package Trabalho1.Controller;
 
 import Trabalho1.Utils.Regex;
 import Trabalho1.Utils.lista.Lista;
-import Trabalho1.Utils.lista.NoLista;
 import Trabalho1.Utils.pilha.PilhaLista;
-
-import javax.swing.*;
-import java.io.File;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -102,121 +98,5 @@ public class AvaliarEstrutura {
         this.singletonTagsList.inserir("source");
         this.singletonTagsList.inserir("!DOCTYPE");
     }
-
-    /*
-     * Valida toda a estrutura do arquivo
-     * @param file Arquivo a ser analisado
-     * Retorna mensagem a ser exibida na interface
-     */
-//    public String validaEstruturaFile(File file){
-//        try {
-//            Scanner scanner = new Scanner(file);
-//            boolean erros = false;
-//            String mensagemFinal = "";
-//
-//            while (scanner.hasNextLine() && !erros) {
-//                boolean tagAbertura = false;
-//                boolean tagFechamento = false;
-//                String tag = "";
-//                String linha = scanner.nextLine();
-//
-//                System.out.println(linha);
-//
-//                if (!linha.isEmpty()) {
-//                    char[] listaChar = linha.toCharArray();
-//
-//                    for (char c : listaChar) {
-//                        if (!tagAbertura && !tagFechamento && (c == ' ' || c == '\t')) {
-//                            continue;
-//                        }
-//                        if ((tagAbertura || tagFechamento) && c == ' ') {
-//                            c = '>';
-//                        }
-//                        if (c == '<') {
-//                            tagAbertura = true;
-//                        }
-//                        if (c == '/') {
-//                            tagAbertura = false;
-//                            tagFechamento = true;
-//                        }
-//                        if (tagAbertura || tagFechamento) {
-//                            tag += c;
-//                        }
-//
-//                        if (c == '>') {
-//                            if (tagAbertura) {
-//                                tag = tag.replace("<", "");
-//                                tag = tag.replace("/", "");
-//                                tag = tag.replace(">", "");
-//                                //requisito 2 - considerando tags singletons e tags com atributos
-//                                if (singletonTagsList.buscar(tag) == null) {
-//                                    mensagemFinal += "Tag de abertura encontrada:   '<" + tag + ">' \n";
-//                                    pilhaTags.push(tag); //Adiciona a tag no topo da pilha
-//                                } else {
-//                                    singletonList.inserir(tag); //armazena as tags Singletons.
-//                                    mensagemFinal += "Tag Singleton encontrada:     '" + tag + "' \n";
-//                                }
-//
-//                                tagAbertura = false;
-//                                tag = "";
-//                            } else if (tagFechamento) {
-//                                if (pilhaTags.estaVazia()) {
-//                                    mensagemFinal += "Arquivo não pode iniciar com uma tag de fechamento."
-//                                            + "Encontrada a tag: '" + tag + "' \n";
-//                                    exit(0);
-//                                } else {
-//                                    System.out.println("Tag de fechamento encontrada: '" + tag + "'");
-//                                    tag = tag.replace("<", "");
-//                                    tag = tag.replace("/", "");
-//                                    tag = tag.replace(">", "");
-//                                    tagFechamento = false;
-//
-//                                    if (pilhaTags.peek().equals(tag)) {
-//                                        //adicionar a tag em uma nova lista para contagem.
-//                                        tagsRemovidas.inserir(tag);
-//                                        pilhaTags.pop();
-//                                    } else {
-//                                        //Retorno requisito 4.1
-//                                        mensagemFinal += "\n\nSeu arquivo não está bem formatado! \n"
-//                                                + "Encontrada a tag final: '</" + tag + ">'. \n" +
-//                                                "Esperava a tag final: '</"
-//                                                + pilhaTags.peek() + ">'";
-//                                        erros = true; //mal formatado
-//                                        exit(0);
-//                                    }
-//                                }
-//                            }
-//                        }
-//                    }
-//                }
-//
-//            }
-//            if (!pilhaTags.estaVazia()) {
-//                //Retorno requisito 4.2
-//                mensagemFinal += "\n\nSeu arquivo não está bem formatado! \nEstá(ão) faltando a(s) tag(s) final(is): \n";
-//                mensagemFinal += pilhaTags.toString();
-//                exit(0);
-//            } else {
-//                //Retorno requisito 3
-//                mensagemFinal += "\n\nTotal de tags encontradas: \n";
-//                //countTag.exibir(); //remover essa linha depois
-//                for (int x = 0; x < tagsRemovidas.obterComprimento(); x++) {
-//                    //pecorrer a lista "countTag", armazenar o valor em uma variavel e utilizar a variavel no metoto "buscarTodos()";
-//                    //countTag.buscarTodos(variavel);
-//                    NoLista p = tagsRemovidas.getNo(x);
-//                    tagsRemovidas.buscarTodos(p);
-//                }
-//
-//                mensagemFinal += file.getName() + " está válido!";
-//
-//                return mensagemFinal;
-//
-//            }
-//        } catch (Exception e) {
-//            return "Problema ao analisar estrutura do arquivo!";
-//        }
-//        return "";
-//    }
-
 
 }
