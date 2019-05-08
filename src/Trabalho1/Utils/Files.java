@@ -6,8 +6,6 @@ import java.io.*;
 
 public class Files {
 
-    // Reutilização da matéria de compiladores (:
-
     /* Caixa de seleção de arquivo nativa do sistema
      * @param extensões permitidas
      * @return File

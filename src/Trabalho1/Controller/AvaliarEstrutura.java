@@ -7,16 +7,17 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import static java.lang.System.exit;
-
 public class AvaliarEstrutura {
 
-    PilhaLista<String> pilhaTags = new PilhaLista<String>();
-    Lista<String> singletonList = new Lista<>();
+    PilhaLista<String> pilhaTags = new PilhaLista<>();
+    Lista<String> singletonList = new Lista<>(); // singletons encontrados
     Lista<String> tagsRemovidas = new Lista<>();
+    Lista<String> tagsUtilizadas = new Lista<>();
 
     // tags predefinidas
     Lista<String> singletonTagsList = new Lista<>();
+
+    String mensagemFinal;
 
     public AvaliarEstrutura() {
         this.insereSingletons();
@@ -27,7 +28,7 @@ public class AvaliarEstrutura {
      * @param conteudo do arquivo HTML
      * Retorna mensagem a ser exibida na interface
      */
-    public String validaEstrutura(String conteudo) {
+    public void validaEstrutura(String conteudo) {
         String mensagemFinal = "Resultados da análise: \n";
 
         Scanner scanner = new Scanner(conteudo);
@@ -50,7 +51,9 @@ public class AvaliarEstrutura {
                     this.pilhaTags.push(tagAbertura);
                     mensagemFinal += "Tag de abertura '" + tagAbertura + "' encontrada \n";
                 } else {
-                    mensagemFinal += "Tag Singleton encontrada: '" + tagAbertura + "' \n";
+                    // adiciona na lista se Singletons
+                    this.singletonList.inserir(tagAbertura);
+                    this.tagsUtilizadas.inserir(tagAbertura);
                 }
 
             }
@@ -62,6 +65,7 @@ public class AvaliarEstrutura {
                 mensagemFinal += "Tag de fechamento '" + tagFechamento + "' encontrada \n";
 
                 if(tagFechamento.equalsIgnoreCase(this.pilhaTags.peek())){
+                    this.tagsUtilizadas.inserir(this.pilhaTags.peek());
                     this.pilhaTags.pop();
                 } else {
                     mensagemFinal += "\nFoi encontrada uma tag final inesperada! \n" +
@@ -71,7 +75,7 @@ public class AvaliarEstrutura {
             }
         }
 
-        System.out.println(pilhaTags);
+        tagsUtilizadas.exibir();
 
         if(pilhaTags.estaVazia()){
             mensagemFinal += "Arquivo HTML é válido!";
@@ -79,9 +83,8 @@ public class AvaliarEstrutura {
             mensagemFinal += "Arquivo HTML é NÃO ESTÁ VÁLIDO!";
         }
 
-        return mensagemFinal;
+        setMensagemFinal(mensagemFinal);
     }
-
 
     private void insereSingletons(){
         this.singletonTagsList.inserir("meta");
@@ -99,4 +102,11 @@ public class AvaliarEstrutura {
         this.singletonTagsList.inserir("!DOCTYPE");
     }
 
+    public String getMensagemFinal() {
+        return mensagemFinal;
+    }
+
+    public void setMensagemFinal(String mensagemFinal) {
+        this.mensagemFinal += mensagemFinal;
+    }
 }

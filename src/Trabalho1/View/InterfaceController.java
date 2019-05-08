@@ -32,6 +32,8 @@ public class InterfaceController {
         this.conteudoArquivo = Files.readFile(arquivo); // lê arquivo e guarda em uma string
 
         if(this.conteudoArquivo != null){
+            AvaliarEstrutura analisar = new AvaliarEstrutura();
+            analisar.setMensagemFinal("");
             this.limpaResultados(); // limpa área de mensagens
             this.arquivoAberto(true); // manipula comportamento da interface
 
@@ -40,8 +42,9 @@ public class InterfaceController {
             this.resultadoAnalise.appendText("\n \n");
 
             // realiza análise da estrutura
-            AvaliarEstrutura analisar = new AvaliarEstrutura();
-            this.resultadoAnalise.appendText(analisar.validaEstrutura(conteudoArquivo));
+            analisar.validaEstrutura(conteudoArquivo);
+
+            this.resultadoAnalise.appendText(analisar.getMensagemFinal());
 
         } else {
             this.arquivoAberto(false); // desativa botões e define labels
@@ -90,7 +93,8 @@ public class InterfaceController {
 
         // realizar análise da estrutura
         AvaliarEstrutura analisar = new AvaliarEstrutura();
-        this.resultadoAnalise.appendText(analisar.validaEstrutura(conteudoArquivo));
+        analisar.validaEstrutura(conteudoArquivo);
+        this.resultadoAnalise.appendText(analisar.getMensagemFinal());
     }
 
     private void limpaResultados(){
