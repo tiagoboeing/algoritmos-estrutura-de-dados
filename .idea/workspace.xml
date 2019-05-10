@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="algoritmos-estrutura-de-dados:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="Quebra de linha e pasta de materiais">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/algoritmos_estrutura_de_dados_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/algoritmos_estrutura_de_dados_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Package Trabalho1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trabalho1.uml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Utils/Files.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho1/Utils/Files.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaVetor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Utils/lista/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho1/Utils/lista/Lista.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,80 +30,18 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="213280295">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="JAVA/Trabalho1" value="2" />
-          <entry key="Utils" value="1" />
-          <entry key="java" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="11" />
-          <entry key="UML" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="451" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="451" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="77" column="32" lean-forward="true" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
+            <state relative-caret-position="168">
+              <caret line="119" column="5" lean-forward="true" selection-start-line="119" selection-start-column="5" selection-end-line="119" selection-end-column="5" />
               <folding>
-                <element signature="e#651#652#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
-                <element signature="e#3096#3764#0" />
-                <element signature="e#3722#3723#0" expanded="true" />
-                <element signature="e#3758#3759#0" expanded="true" />
-                <element signature="e#3816#3817#0" expanded="true" />
-                <element signature="e#3867#3868#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-              <folding>
-                <element signature="e#3422#3423#0" expanded="true" />
-                <element signature="e#3467#3468#0" expanded="true" />
-                <element signature="method#arquivoAberto#0;class#InterfaceController#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Trabalho1/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
+                <element signature="e#4651#4652#0" expanded="true" />
+                <element signature="e#4760#4761#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,6 +78,11 @@
       <find>nolista</find>
       <find>analisa</find>
       <find>singletonTagsList</find>
+      <find>frequenciaTags</find>
+      <find>countTag</find>
+      <find>retirar</find>
+      <find>tagsUtilizadas</find>
+      <find>equals</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -167,7 +114,6 @@
         <option value="$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/pilha/PilhaLista.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/Utils/lista/Main.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/Utils/lista/ListaVaziaException.java" />
-        <option value="$PROJECT_DIR$/src/Trabalho1/Utils/lista/Lista.java" />
         <option value="$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/lista/Demo.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/Utils/pilha/Pilha.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaCheiaException.java" />
@@ -178,16 +124,11 @@
         <option value="$PROJECT_DIR$/src/Trabalho1/Utils/Regex.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/Main.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/Utils/Files.java" />
-        <option value="$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" />
+        <option value="$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java" />
+        <option value="$PROJECT_DIR$/src/Trabalho1/Utils/lista/Lista.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
@@ -202,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,37 +155,11 @@
               <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Trabalho1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Trabalho1" type="462c0819:PsiDirectoryNode" />
-              <item name="Controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Trabalho1" type="462c0819:PsiDirectoryNode" />
-              <item name="Utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Trabalho1" type="462c0819:PsiDirectoryNode" />
-              <item name="View" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -266,8 +180,8 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Trabalho1/src" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -304,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Trabalho 1">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Estrutura de dados" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="br.furb.Main" />
       <module name="algoritmos-estrutura-de-dados" />
@@ -351,9 +265,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Trabalho1.Main" />
-      <module name="algoritmos-estrutura-de-dados" />
+      <module name="Trabalho1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Trabalho1.*" />
@@ -364,12 +278,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PilhaLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.furb.pilha_lista.PilhaLista" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trabalho1.Main" />
       <module name="algoritmos-estrutura-de-dados" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.furb.pilha_lista.*" />
+          <option name="PATTERN" value="Trabalho1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,19 +301,19 @@
     <list>
       <item itemvalue="Application.Trabalho 1" />
       <item itemvalue="Application.Estrutura de dados" />
-      <item itemvalue="Application.PilhaLista" />
       <item itemvalue="Application.FilaVetor" />
       <item itemvalue="Application.FilaLista" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.LerArquivo" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.LerArquivo" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.FilaLista" />
         <item itemvalue="Application.FilaVetor" />
-        <item itemvalue="Application.PilhaLista" />
       </list>
     </recent_temporary>
   </component>
@@ -446,13 +360,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46308000" />
+    <option name="totallyTimeSpent" value="49530000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18255034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1980728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -461,7 +374,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.26628074" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21997106" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21956769" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -470,7 +383,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.20115775" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.20022753" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -519,21 +432,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Quebra de linha e pasta de materiais" />
     <option name="LAST_COMMIT_MESSAGE" value="Quebra de linha e pasta de materiais" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha_lista/PilhaLista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/furb/pilha/PilhaVetor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -763,35 +666,7 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Scanner.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/regex/Matcher.java" />
-    <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/HTML/CriarHTML.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaLista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaVetor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-798">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaVetor.java" />
     <entry file="uml://JAVA/Trabalho1.Utils">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -810,8 +685,8 @@
           <settings layout="Hierarchic Group" zoom="1.0" x="125.0" y="77.0" />
           <SelectedNodes />
           <Categories>
-            <Category>Constructors</Category>
             <Category>Fields</Category>
+            <Category>Constructors</Category>
             <Category>Methods</Category>
             <Category>Properties</Category>
             <Category>Inner Classes</Category>
@@ -843,24 +718,6 @@
           </nodes>
           <notes />
           <edges>
-            <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Model.Pilha">
-              <point x="0.0" y="-103.5" />
-              <point x="480.82678571428573" y="471.0" />
-              <point x="500.5" y="471.0" />
-              <point x="0.0" y="69.5" />
-            </edge>
-            <edge source="Trabalho1.View.InterfaceController" target="Trabalho1.Utils.Files">
-              <point x="-29.25" y="-136.0" />
-              <point x="368.75" y="953.0" />
-              <point x="310.5" y="953.0" />
-              <point x="0.0" y="36.5" />
-            </edge>
-            <edge source="Trabalho1.Utils.lista.Lista" target="Trabalho1.Utils.lista.NoLista">
-              <point x="-32.125" y="-159.0" />
-              <point x="703.875" y="103.0" />
-              <point x="661.4696428571428" y="103.0" />
-              <point x="20.25" y="36.5" />
-            </edge>
             <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Utils.lista.Lista">
               <point x="69.60000000000002" y="-103.5" />
               <point x="550.4267857142858" y="471.0" />
@@ -901,11 +758,29 @@
               <point x="97.0" y="963.0" />
               <point x="0.0" y="48.5" />
             </edge>
+            <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Model.Pilha">
+              <point x="0.0" y="-103.5" />
+              <point x="480.82678571428573" y="471.0" />
+              <point x="500.5" y="471.0" />
+              <point x="0.0" y="69.5" />
+            </edge>
+            <edge source="Trabalho1.View.InterfaceController" target="Trabalho1.Utils.Files">
+              <point x="-29.25" y="-136.0" />
+              <point x="368.75" y="953.0" />
+              <point x="310.5" y="953.0" />
+              <point x="0.0" y="36.5" />
+            </edge>
             <edge source="Trabalho1.Controller.AvaliarEstrutura" target="Trabalho1.Utils.pilha.PilhaLista">
               <point x="-46.80000000000001" y="-92.5" />
               <point x="497.2" y="718.0" />
               <point x="437.32678571428573" y="718.0" />
               <point x="-43.5" y="103.5" />
+            </edge>
+            <edge source="Trabalho1.Utils.lista.Lista" target="Trabalho1.Utils.lista.NoLista">
+              <point x="-32.125" y="-159.0" />
+              <point x="703.875" y="103.0" />
+              <point x="661.4696428571428" y="103.0" />
+              <point x="20.25" y="36.5" />
             </edge>
             <edge source="Trabalho1.View.InterfaceController" target="Trabalho1.Controller.AvaliarEstrutura">
               <point x="87.75" y="-136.0" />
@@ -920,7 +795,7 @@
               <point x="0.0" y="14.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.2999999999999998" x="342.61538461538464" y="49.61538461538464" />
+          <settings layout="Hierarchic Group" zoom="1.2999999999999998" x="343.0" y="50.0" />
           <SelectedNodes>
             <node>Trabalho1.Main</node>
           </SelectedNodes>
@@ -940,17 +815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
           <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/Lista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1118">
-          <caret line="133" column="23" lean-forward="true" selection-start-line="133" selection-start-column="23" selection-end-line="133" selection-end-column="23" />
-          <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -985,30 +849,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/HTML/CriarHTML.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="136" column="54" selection-start-line="136" selection-start-column="54" selection-end-line="136" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        <state relative-caret-position="199">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
           <folding>
-            <element signature="e#3422#3423#0" expanded="true" />
-            <element signature="e#3467#3468#0" expanded="true" />
             <element signature="method#arquivoAberto#0;class#InterfaceController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaLista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/Lista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="77" column="32" lean-forward="true" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
+        <state relative-caret-position="168">
+          <caret line="119" column="5" lean-forward="true" selection-start-line="119" selection-start-column="5" selection-end-line="119" selection-end-column="5" />
           <folding>
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#3096#3764#0" />
-            <element signature="e#3722#3723#0" expanded="true" />
-            <element signature="e#3758#3759#0" expanded="true" />
-            <element signature="e#3816#3817#0" expanded="true" />
-            <element signature="e#3867#3868#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#4651#4652#0" expanded="true" />
+            <element signature="e#4760#4761#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1019,12 +922,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>algoritmos-estrutura-de-dados:jar</last-edited>
+          <last-edited>unnamed</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
+                <option value="0.58527607" />
               </list>
             </option>
           </splitter-proportions>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/trabalho1</output-path>
+    <root id="archive" name="unnamed.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/src/Trabalho1" />
+    </root>
+  </artifact>
+</component>
