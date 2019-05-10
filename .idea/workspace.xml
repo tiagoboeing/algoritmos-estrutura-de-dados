@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="Quebra de linha e pasta de materiais">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="Quebra de linha e pasta de materiais" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,42 +26,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/furb/arvore_binaria/ArvoreBinaria.java">
+        <entry file="file://$PROJECT_DIR$/src/br/furb/arvore_n_arias/NoArvore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="235">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
               <folding>
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#961#962#0" expanded="true" />
-                <element signature="e#994#995#0" expanded="true" />
-                <element signature="e#978#979#0" expanded="true" />
-                <element signature="e#1016#1017#0" expanded="true" />
-                <element signature="e#1369#1370#0" expanded="true" />
-                <element signature="e#1401#1402#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#666#667#0" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
+                <element signature="e#790#791#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+                <element signature="e#859#860#0" expanded="true" />
+                <element signature="e#910#911#0" expanded="true" />
+                <element signature="e#948#949#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/furb/arvore_binaria/ArvoreBinariaTests.java">
+        <entry file="file://$PROJECT_DIR$/src/br/furb/arvore_n_arias/AvoreNAriasTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/furb/pilha/PilhaVetor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="56">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -152,6 +141,11 @@
         <option value="$PROJECT_DIR$/src/br/furb/arvore_binaria/NoArvoreBinaria.java" />
         <option value="$PROJECT_DIR$/src/br/furb/arvore_binaria/ArvoreBinariaTests.java" />
         <option value="$PROJECT_DIR$/src/br/furb/arvore_binaria/ArvoreBinaria.java" />
+        <option value="$PROJECT_DIR$/src/br/furb/arvores_n_arias/Arvore.java" />
+        <option value="$PROJECT_DIR$/src/br/furb/arvores_n_arias/NoArvore.java" />
+        <option value="$PROJECT_DIR$/src/br/furb/arvore_n_arias/NoArvore.java" />
+        <option value="$PROJECT_DIR$/src/br/furb/arvore_n_arias/AvoreNAriasTests.java" />
+        <option value="$PROJECT_DIR$/src/br/furb/arvore_n_arias/Arvore.java" />
       </list>
     </option>
   </component>
@@ -197,14 +191,7 @@
               <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="furb" type="462c0819:PsiDirectoryNode" />
-              <item name="arvore_binaria" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="furb" type="462c0819:PsiDirectoryNode" />
-              <item name="pilha" type="462c0819:PsiDirectoryNode" />
+              <item name="arvore_n_arias" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -269,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArvoreBinariaTests">
+  <component name="RunManager" selected="Application.AvoreNAriasTests">
     <configuration name="ArvoreBinariaTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.furb.arvore_binaria.ArvoreBinariaTests" />
       <module name="algoritmos-estrutura-de-dados" />
@@ -283,22 +270,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Estrutura de dados" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="br.furb.Main" />
+    <configuration name="AvoreNAriasTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.furb.arvore_n_arias.AvoreNAriasTests" />
       <module name="algoritmos-estrutura-de-dados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.furb.arvore_n_arias.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilaLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.furb.fila.FilaLista" />
+    <configuration name="Estrutura de dados" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.furb.Main" />
       <module name="algoritmos-estrutura-de-dados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.furb.fila.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -352,19 +339,19 @@
     <list>
       <item itemvalue="Application.Trabalho 1" />
       <item itemvalue="Application.Estrutura de dados" />
-      <item itemvalue="Application.FilaLista" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.LerArquivo" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.ArvoreBinariaTests" />
+      <item itemvalue="Application.AvoreNAriasTests" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AvoreNAriasTests" />
         <item itemvalue="Application.ArvoreBinariaTests" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.LerArquivo" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.FilaLista" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +372,7 @@
       <workItem from="1557079997683" duration="22685000" />
       <workItem from="1557112071106" duration="5448000" />
       <workItem from="1557270224871" duration="4886000" />
-      <workItem from="1557451594025" duration="2329000" />
+      <workItem from="1557451594025" duration="3295000" />
     </task>
     <task id="LOCAL-00001" summary="Quebra de linha e pasta de materiais">
       <created>1557112960287</created>
@@ -412,13 +399,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52222000" />
+    <option name="totallyTimeSpent" value="53188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19753747" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19753747" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -427,7 +414,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.26628074" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21956769" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21956769" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -494,61 +481,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaListaTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="813">
-          <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaLista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/a.java" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/Interface.fxml" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/ConteudoArquivo.fxml" />
-    <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/pilha/Pilha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/pilha/PilhaCheiaException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/lista/ListaVaziaException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/pilha/PilhaLista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-773">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/lista/Lista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2037">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/pilha/PilhaCheiaException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -806,24 +738,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaVetor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaLista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaVetorTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/furb/pilha/PilhaVetor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="135">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/furb/arvore_binaria/ArvoreBinariaTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        <state relative-caret-position="338">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/furb/arvore_binaria/ArvoreBinaria.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#123#124#0" expanded="true" />
             <element signature="e#142#143#0" expanded="true" />
@@ -837,6 +790,79 @@
             <element signature="e#1016#1017#0" expanded="true" />
             <element signature="e#1369#1370#0" expanded="true" />
             <element signature="e#1401#1402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha_lista/PilhaLista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha_lista/PilhaListaTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha_exemplo/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/pilha_exemplo/PilhaVetor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/arvore_n_arias/AvoreNAriasTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/arvore_n_arias/Arvore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="139" column="6" selection-start-line="139" selection-start-column="6" selection-end-line="139" selection-end-column="6" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#3119#3120#0" expanded="true" />
+            <element signature="e#3146#3147#0" expanded="true" />
+            <element signature="e#3277#3278#0" expanded="true" />
+            <element signature="e#3309#3310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/arvore_n_arias/NoArvore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -901,7 +927,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
