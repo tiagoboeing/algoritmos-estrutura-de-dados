@@ -2,30 +2,13 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="unnamed" />
+      <artifact name="Trabalho1:jar" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="Quebra de linha e pasta de materiais">
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Model/Pilha.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Utils/Files.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Utils/Regex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Utils/lista/Lista.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Utils/lista/ListaVaziaException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Utils/lista/NoLista.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaCheiaException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaLista.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaVaziaException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/View/ConteudoArquivo.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/View/ConteudoArquivoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/View/Interface.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/assets/eye.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/assets/open.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trabalho1/testes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabalho1/src/Trabalho1/Utils/pilha/PilhaCheiaException.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,14 +28,112 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Trabalho1/src/Trabalho1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="396">
+              <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Trabalho1/src/Trabalho1/Utils/pilha/PilhaLista.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/Trabalho1">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>Trabalho1</OriginalElement>
+              <nodes>
+                <node x="1031.9039900249377" y="1022.3915211970076">Trabalho1.Utils.pilha.PilhaVaziaException</node>
+                <node x="288.79588191682956" y="1372.769159108892">Trabalho1.Utils.pilha.PilhaCheiaException</node>
+                <node x="-35.70411808317044" y="1386.769159108892">Trabalho1.Main</node>
+                <node x="1631.9039900249377" y="182.3915211970076">Trabalho1.Utils.lista.ListaVaziaException</node>
+                <node x="167.90399002493768" y="742.3915211970076">Trabalho1.View.ConteudoArquivoController</node>
+                <node x="1307.9039900249377" y="1197.3915211970075">Trabalho1.Utils.pilha.PilhaLista</node>
+                <node x="527.9039900249377" y="757.8915211970076">Trabalho1.Controller.AvaliarEstrutura</node>
+                <node x="1312.9039900249377" y="917.3915211970076">Trabalho1.Model.Pilha</node>
+                <node x="147.90399002493768" y="358.8915211970076">Trabalho1.View.InterfaceController</node>
+                <node x="-198.09600997506232" y="156.3915211970076">Trabalho1.Utils.lista.NoLista</node>
+                <node x="1027.9039900249377" y="11.891521197007592">Trabalho1.Utils.lista.Lista</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Utils.lista.NoLista">
+                  <point x="-99.5" y="-0.0" />
+                  <point x="-112.59600997506232" y="1318.3915211970075" />
+                  <point x="0.0" y="42.0" />
+                </edge>
+                <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Utils.lista.Lista">
+                  <point x="99.5" y="-0.0" />
+                  <point x="1567.4039900249377" y="1318.3915211970075" />
+                  <point x="1567.4039900249377" y="238.3915211970076" />
+                  <point x="179.5" y="40.0" />
+                </edge>
+                <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Utils.pilha.PilhaVaziaException">
+                  <point x="-99.5" y="-80.0" />
+                  <point x="1127.4039900249377" y="1238.3915211970075" />
+                  <point x="0.0" y="16.0" />
+                </edge>
+                <edge source="Trabalho1.Controller.AvaliarEstrutura" target="Trabalho1.Utils.lista.Lista">
+                  <point x="40.0" y="-160.5" />
+                  <point x="767.4039900249377" y="318.3915211970076" />
+                  <point x="-179.5" y="120.0" />
+                </edge>
+                <edge source="Trabalho1.View.InterfaceController" target="Trabalho1.View.ConteudoArquivoController">
+                  <point x="0.0" y="159.5" />
+                  <point x="0.0" y="-56.0" />
+                </edge>
+                <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Model.Pilha">
+                  <point x="0.0" y="-121.0" />
+                  <point x="0.0" y="81.0" />
+                </edge>
+                <edge source="Trabalho1.Controller.AvaliarEstrutura" target="Trabalho1.Utils.pilha.PilhaLista">
+                  <point x="199.5" y="40.0" />
+                  <point x="967.4039900249377" y="958.3915211970076" />
+                  <point x="967.4039900249377" y="1258.3915211970075" />
+                  <point x="-99.5" y="-60.0" />
+                </edge>
+                <edge source="Trabalho1.Utils.lista.Lista" target="Trabalho1.Utils.lista.NoLista">
+                  <point x="0.0" y="-186.5" />
+                  <point x="1207.4039900249377" y="-81.60847880299241" />
+                  <point x="-112.59600997506232" y="-81.60847880299241" />
+                  <point x="0.0" y="-42.0" />
+                </edge>
+                <edge source="Trabalho1.View.InterfaceController" target="Trabalho1.Controller.AvaliarEstrutura">
+                  <point x="0.0" y="-159.5" />
+                  <point x="287.4039900249377" y="318.3915211970076" />
+                  <point x="727.4039900249377" y="318.3915211970076" />
+                  <point x="0.0" y="-160.5" />
+                </edge>
+                <edge source="Trabalho1.Utils.lista.Lista" target="Trabalho1.Utils.lista.ListaVaziaException">
+                  <point x="179.5" y="-0.0" />
+                  <point x="-95.5" y="-0.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.712681436210848" x="125.90334641770971" y="848.9139544829312" />
+              <SelectedNodes>
+                <node>Trabalho1.Utils.pilha.PilhaCheiaException</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -183,12 +264,29 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Trabalho1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="Trabalho1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Trabalho1" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="Trabalho1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Trabalho1" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+              <item name="pilha" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -362,6 +460,7 @@
       <workItem from="1557079997683" duration="22685000" />
       <workItem from="1557112071106" duration="5448000" />
       <workItem from="1557270224871" duration="4886000" />
+      <workItem from="1557451594025" duration="433000" />
     </task>
     <task id="LOCAL-00001" summary="Quebra de linha e pasta de materiais">
       <created>1557112960287</created>
@@ -388,12 +487,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49752000" />
+    <option name="totallyTimeSpent" value="50326000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1980728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20074947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -402,7 +502,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.26628074" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21956769" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21956769" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -465,34 +565,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Quebra de linha e pasta de materiais" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/lista/NoLista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/Fila.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaVaziaException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaCheiaException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/furb/fila/pilha/PilhaVaziaException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -543,22 +615,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/a.java" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/Interface.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/ConteudoArquivo.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/Interface.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/ConteudoArquivo.fxml" />
     <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/pilha/Pilha.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -619,20 +677,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/NoLista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/ListaVaziaException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/NoLista.java" />
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/ListaVaziaException.java" />
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/Demo.java" />
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/Aluno.java" />
     <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/lista/Demo.java">
@@ -643,27 +689,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/Demo.java" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaCheiaException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaVaziaException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="59" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Model/Pilha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaCheiaException.java" />
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaVaziaException.java" />
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Model/Pilha.java" />
     <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/HTML/LerArquivo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
@@ -671,13 +699,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/testes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="7" lean-forward="true" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/testes.html" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Scanner.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/regex/Matcher.java" />
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaVetor.java" />
@@ -710,149 +732,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/Trabalho1">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>Trabalho1</OriginalElement>
-          <nodes>
-            <node x="238.5" y="267.5">Trabalho1.Utils.pilha.PilhaVaziaException</node>
-            <node x="939.2196428571428" y="0.0">Trabalho1.Main</node>
-            <node x="1152.2196428571428" y="0.0">Trabalho1.Utils.pilha.PilhaCheiaException</node>
-            <node x="742.2196428571428" y="22.0">Trabalho1.Utils.lista.ListaVaziaException</node>
-            <node x="0.0" y="792.0">Trabalho1.View.ConteudoArquivoController</node>
-            <node x="214.0" y="804.0">Trabalho1.Utils.Files</node>
-            <node x="393.82678571428573" y="491.0">Trabalho1.Utils.pilha.PilhaLista</node>
-            <node x="427.0" y="748.0">Trabalho1.Controller.AvaliarEstrutura</node>
-            <node x="413.5" y="212.5">Trabalho1.Model.Pilha</node>
-            <node x="281.0" y="983.0">Trabalho1.View.InterfaceController</node>
-            <node x="560.2196428571428" y="0.0">Trabalho1.Utils.lista.NoLista</node>
-            <node x="182.82678571428573" y="558.0">Trabalho1.Utils.Regex</node>
-            <node x="607.5" y="123.0">Trabalho1.Utils.lista.Lista</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Utils.lista.Lista">
-              <point x="69.60000000000002" y="-103.5" />
-              <point x="550.4267857142858" y="471.0" />
-              <point x="703.875" y="471.0" />
-              <point x="-32.125" y="159.0" />
-            </edge>
-            <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Utils.lista.NoLista">
-              <point x="-34.80000000000001" y="-103.5" />
-              <point x="446.02678571428567" y="461.0" />
-              <point x="403.0" y="461.0" />
-              <point x="403.0" y="103.0" />
-              <point x="580.4696428571428" y="103.0" />
-              <point x="-60.75" y="36.5" />
-            </edge>
-            <edge source="Trabalho1.Controller.AvaliarEstrutura" target="Trabalho1.Utils.Regex">
-              <point x="-93.60000000000002" y="-92.5" />
-              <point x="450.4" y="728.0" />
-              <point x="278.32678571428573" y="728.0" />
-              <point x="0.0" y="36.5" />
-            </edge>
-            <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Utils.pilha.PilhaVaziaException">
-              <point x="-69.6" y="-103.5" />
-              <point x="411.2267857142857" y="471.0" />
-              <point x="315.5" y="471.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="Trabalho1.Controller.AvaliarEstrutura" target="Trabalho1.Utils.lista.Lista">
-              <point x="46.799999999999955" y="-92.5" />
-              <point x="590.8" y="718.0" />
-              <point x="794.75" y="718.0" />
-              <point x="794.75" y="471.0" />
-              <point x="768.125" y="471.0" />
-              <point x="32.125" y="159.0" />
-            </edge>
-            <edge source="Trabalho1.View.InterfaceController" target="Trabalho1.View.ConteudoArquivoController">
-              <point x="-87.75" y="-136.0" />
-              <point x="310.25" y="963.0" />
-              <point x="97.0" y="963.0" />
-              <point x="0.0" y="48.5" />
-            </edge>
-            <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Model.Pilha">
-              <point x="0.0" y="-103.5" />
-              <point x="480.82678571428573" y="471.0" />
-              <point x="500.5" y="471.0" />
-              <point x="0.0" y="69.5" />
-            </edge>
-            <edge source="Trabalho1.View.InterfaceController" target="Trabalho1.Utils.Files">
-              <point x="-29.25" y="-136.0" />
-              <point x="368.75" y="953.0" />
-              <point x="310.5" y="953.0" />
-              <point x="0.0" y="36.5" />
-            </edge>
-            <edge source="Trabalho1.Controller.AvaliarEstrutura" target="Trabalho1.Utils.pilha.PilhaLista">
-              <point x="-46.80000000000001" y="-92.5" />
-              <point x="497.2" y="718.0" />
-              <point x="437.32678571428573" y="718.0" />
-              <point x="-43.5" y="103.5" />
-            </edge>
-            <edge source="Trabalho1.Utils.lista.Lista" target="Trabalho1.Utils.lista.NoLista">
-              <point x="-32.125" y="-159.0" />
-              <point x="703.875" y="103.0" />
-              <point x="661.4696428571428" y="103.0" />
-              <point x="20.25" y="36.5" />
-            </edge>
-            <edge source="Trabalho1.View.InterfaceController" target="Trabalho1.Controller.AvaliarEstrutura">
-              <point x="87.75" y="-136.0" />
-              <point x="485.75" y="963.0" />
-              <point x="602.5" y="963.0" />
-              <point x="58.5" y="92.5" />
-            </edge>
-            <edge source="Trabalho1.Utils.lista.Lista" target="Trabalho1.Utils.lista.ListaVaziaException">
-              <point x="96.375" y="-159.0" />
-              <point x="832.375" y="103.0" />
-              <point x="818.2196428571428" y="103.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.2999999999999998" x="343.0" y="50.0" />
-          <SelectedNodes>
-            <node>Trabalho1.Main</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/Files.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/Regex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/ConteudoArquivoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/Files.java" />
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/Regex.java" />
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/ConteudoArquivoController.java" />
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Main.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
@@ -874,63 +757,185 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
-          <folding>
-            <element signature="method#arquivoAberto#0;class#InterfaceController#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaLista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/Lista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
-          <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="122" column="3" selection-start-line="122" selection-start-column="3" selection-end-line="122" selection-end-column="3" />
-          <folding>
-            <element signature="e#628#629#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#4651#4652#0" expanded="true" />
-            <element signature="e#4760#4761#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java" />
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaLista.java" />
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/Lista.java" />
+    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" />
     <entry file="file://$PROJECT_DIR$/Trabalho1/src/Trabalho1/View/Interface.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="uml://JAVA/Trabalho1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Trabalho1</OriginalElement>
+          <nodes>
+            <node x="1031.9039900249377" y="1022.3915211970076">Trabalho1.Utils.pilha.PilhaVaziaException</node>
+            <node x="288.79588191682956" y="1372.769159108892">Trabalho1.Utils.pilha.PilhaCheiaException</node>
+            <node x="-35.70411808317044" y="1386.769159108892">Trabalho1.Main</node>
+            <node x="1631.9039900249377" y="182.3915211970076">Trabalho1.Utils.lista.ListaVaziaException</node>
+            <node x="167.90399002493768" y="742.3915211970076">Trabalho1.View.ConteudoArquivoController</node>
+            <node x="1307.9039900249377" y="1197.3915211970075">Trabalho1.Utils.pilha.PilhaLista</node>
+            <node x="527.9039900249377" y="757.8915211970076">Trabalho1.Controller.AvaliarEstrutura</node>
+            <node x="1312.9039900249377" y="917.3915211970076">Trabalho1.Model.Pilha</node>
+            <node x="147.90399002493768" y="358.8915211970076">Trabalho1.View.InterfaceController</node>
+            <node x="-198.09600997506232" y="156.3915211970076">Trabalho1.Utils.lista.NoLista</node>
+            <node x="1027.9039900249377" y="11.891521197007592">Trabalho1.Utils.lista.Lista</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Utils.lista.NoLista">
+              <point x="-99.5" y="-0.0" />
+              <point x="-112.59600997506232" y="1318.3915211970075" />
+              <point x="0.0" y="42.0" />
+            </edge>
+            <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Utils.lista.Lista">
+              <point x="99.5" y="-0.0" />
+              <point x="1567.4039900249377" y="1318.3915211970075" />
+              <point x="1567.4039900249377" y="238.3915211970076" />
+              <point x="179.5" y="40.0" />
+            </edge>
+            <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Utils.pilha.PilhaVaziaException">
+              <point x="-99.5" y="-80.0" />
+              <point x="1127.4039900249377" y="1238.3915211970075" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="Trabalho1.Controller.AvaliarEstrutura" target="Trabalho1.Utils.lista.Lista">
+              <point x="40.0" y="-160.5" />
+              <point x="767.4039900249377" y="318.3915211970076" />
+              <point x="-179.5" y="120.0" />
+            </edge>
+            <edge source="Trabalho1.View.InterfaceController" target="Trabalho1.View.ConteudoArquivoController">
+              <point x="0.0" y="159.5" />
+              <point x="0.0" y="-56.0" />
+            </edge>
+            <edge source="Trabalho1.Utils.pilha.PilhaLista" target="Trabalho1.Model.Pilha">
+              <point x="0.0" y="-121.0" />
+              <point x="0.0" y="81.0" />
+            </edge>
+            <edge source="Trabalho1.Controller.AvaliarEstrutura" target="Trabalho1.Utils.pilha.PilhaLista">
+              <point x="199.5" y="40.0" />
+              <point x="967.4039900249377" y="958.3915211970076" />
+              <point x="967.4039900249377" y="1258.3915211970075" />
+              <point x="-99.5" y="-60.0" />
+            </edge>
+            <edge source="Trabalho1.Utils.lista.Lista" target="Trabalho1.Utils.lista.NoLista">
+              <point x="0.0" y="-186.5" />
+              <point x="1207.4039900249377" y="-81.60847880299241" />
+              <point x="-112.59600997506232" y="-81.60847880299241" />
+              <point x="0.0" y="-42.0" />
+            </edge>
+            <edge source="Trabalho1.View.InterfaceController" target="Trabalho1.Controller.AvaliarEstrutura">
+              <point x="0.0" y="-159.5" />
+              <point x="287.4039900249377" y="318.3915211970076" />
+              <point x="727.4039900249377" y="318.3915211970076" />
+              <point x="0.0" y="-160.5" />
+            </edge>
+            <edge source="Trabalho1.Utils.lista.Lista" target="Trabalho1.Utils.lista.ListaVaziaException">
+              <point x="179.5" y="-0.0" />
+              <point x="-95.5" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.712681436210848" x="125.90334641770971" y="848.9139544829312" />
+          <SelectedNodes>
+            <node>Trabalho1.Utils.pilha.PilhaCheiaException</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">Trabalho1.Main</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">org</node>
+            <node x="" y="">Trabalho1.Model</node>
+            <node x="" y="">Prova1</node>
+            <node x="" y="">Trabalho1.assets</node>
+            <node x="" y="">Trabalho1.META-INF</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">br</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">Trabalho1.Utils</node>
+            <node x="" y="">java</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">Trabalho1.View</node>
+            <node x="" y="">Trabalho1.Controller</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">groovyjarjarantlr</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="259.5" y="285.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/D:/Java/algoritmos-estrutura-de-dados/Trabalho1/src">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/Trabalho1/src</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="746.5" y="401.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Trabalho1/src/Trabalho1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="396">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trabalho1/src/Trabalho1/Utils/pilha/PilhaCheiaException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trabalho1/src/Trabalho1/Utils/pilha/PilhaLista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -994,6 +999,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
