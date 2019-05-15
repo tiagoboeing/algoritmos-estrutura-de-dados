@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Trabalho1/Trabalho1.iml" filepath="$PROJECT_DIR$/Trabalho1/Trabalho1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/algoritmos-estrutura-de-dados.iml" filepath="$PROJECT_DIR$/.idea/algoritmos-estrutura-de-dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semestres_anteriores/semestres_anteriores.iml" filepath="$PROJECT_DIR$/semestres_anteriores/semestres_anteriores.iml" />
     </modules>
   </component>
 </project>
