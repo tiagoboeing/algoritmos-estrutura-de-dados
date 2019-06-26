@@ -7,8 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="Quebra de linha e pasta de materiais">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/furb/fila/FilaVetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/furb/fila/FilaVetor.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,44 +29,30 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/furb/arvore_n_arias/NoArvore.java">
+        <entry file="file://$PROJECT_DIR$/Prova2/src/ArvoreBinaria.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="361">
+              <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/furb/arvore_n_arias/AvoreNAriasTests.java">
+        <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Lista02/ListaEstatica.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/prova2/Arvore.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/prova2/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+            <state relative-caret-position="52">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/prova2/ArvoreProva.java">
+        <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Lista02/ListaEstaticaTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            <state relative-caret-position="52">
+              <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -106,6 +94,14 @@
       <find>tagsUtilizadas</find>
       <find>equals</find>
       <find>cheia</find>
+      <find>perte</find>
+      <find>copiarValoresFila</find>
+      <find>PilhaVetor</find>
+      <find>contarfol</find>
+      <find>novo</find>
+      <find>encolher</find>
+      <find>tostring</find>
+      <find>arvoreprova</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -114,17 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/br/furb/pilha/PilhaVetorTest.groovy" />
-        <option value="$PROJECT_DIR$/src/br/furb/pilha/PilhaVetorTest.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/pilha/PilhaVetorTests.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/pilha/PilhaVetor.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/pilha_lista/NoLista.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/pilha_lista/PilhaListaTests.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/pilha_lista/PilhaLista.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/fila/Fila.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/fila/Lista/ListaEncadeada.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/fila/pilha/Pilha.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/fila/FilaVetor.java" />
         <option value="$PROJECT_DIR$/src/br/furb/fila/FilaVetorTests.java" />
         <option value="$PROJECT_DIR$/src/br/furb/fila/FilaLista.java" />
         <option value="$PROJECT_DIR$/src/br/furb/fila/FilaListaTests.java" />
@@ -160,6 +145,22 @@
         <option value="$PROJECT_DIR$/src/br/furb/arvore_n_arias/Arvore.java" />
         <option value="$PROJECT_DIR$/semestres_anteriores/src/prova2/Arvore.java" />
         <option value="$PROJECT_DIR$/semestres_anteriores/src/prova2/Demo.java" />
+        <option value="$PROJECT_DIR$/src/br/furb/fila/FilaVetor.java" />
+        <option value="$PROJECT_DIR$/Prova2/src/Fila/lista/NoLista.java" />
+        <option value="$PROJECT_DIR$/Prova2/src/Fila/FilaVaziaException.java" />
+        <option value="$PROJECT_DIR$/Prova2/src/Fila/FilaVetor.java" />
+        <option value="$PROJECT_DIR$/Prova2/src/fila/pilha/PilhaVaziaException.java" />
+        <option value="$PROJECT_DIR$/Prova2/src/fila/FilaLista.java" />
+        <option value="$PROJECT_DIR$/Prova2/src/FilaVetorTests.java" />
+        <option value="$PROJECT_DIR$/Prova2/src/NoArvoreBinaria.java" />
+        <option value="$PROJECT_DIR$/Prova2/src/NoArvore.java" />
+        <option value="$PROJECT_DIR$/Prova2/src/ArvoreBinaria.java" />
+        <option value="$PROJECT_DIR$/Prova2/src/fila/FilaVetorTests.java" />
+        <option value="$PROJECT_DIR$/Prova2/src/fila/FilaVetor.java" />
+        <option value="$PROJECT_DIR$/Prova2/src/Demo.java" />
+        <option value="$PROJECT_DIR$/Prova2/src/Arvore.java" />
+        <option value="$PROJECT_DIR$/semestres_anteriores/src/Lista02/ListaEstaticaTest.java" />
+        <option value="$PROJECT_DIR$/semestres_anteriores/src/Lista02/ListaEstaticaTests.java" />
       </list>
     </option>
   </component>
@@ -182,6 +183,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,13 +207,12 @@
               <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
               <item name="semestres_anteriores" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="prova2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -232,23 +233,24 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/semestres_anteriores/src/prova2" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/semestres_anteriores/src" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="br.furb.pilha" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tiago\Desktop\Java\algoritmos-estrutura-de-dados\semestres_anteriores\src" />
+      <recent name="C:\Users\tiago\Desktop\Java\algoritmos-estrutura-de-dados\semestres_anteriores\src\prova3" />
+      <recent name="C:\Users\tiago\Desktop\Java\algoritmos-estrutura-de-dados\Prova2\src" />
+      <recent name="C:\Users\tiago\Desktop\Java\algoritmos-estrutura-de-dados\Prova2\src\Fila" />
       <recent name="D:\Java\algoritmos-estrutura-de-dados\semestres_anteriores\src\prova2" />
-      <recent name="D:\Java\algoritmos-estrutura-de-dados\Trabalho1\src" />
-      <recent name="D:\Java\algoritmos-estrutura-de-dados\Materiais" />
-      <recent name="D:\Java\algoritmos-estrutura-de-dados\src\Trabalho1\Utils" />
-      <recent name="D:\Java\algoritmos-estrutura-de-dados\src\trabalho1_semestres_anteriores" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="junit.framework.TestCase" />
@@ -270,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AvoreNAriasTests">
+  <component name="RunManager" selected="Application.Demo">
     <configuration name="ArvoreBinariaTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.furb.arvore_binaria.ArvoreBinariaTests" />
       <module name="algoritmos-estrutura-de-dados" />
@@ -297,6 +299,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="Prova2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Estrutura de dados" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="br.furb.Main" />
       <module name="algoritmos-estrutura-de-dados" />
@@ -304,12 +313,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LerArquivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.furb.trabalho1_semestres_anteriores.HTML.LerArquivo" />
-      <module name="algoritmos-estrutura-de-dados" />
+    <configuration name="FilaVetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fila.FilaVetor" />
+      <module name="Prova2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.furb.trabalho1_semestres_anteriores.HTML.*" />
+          <option name="PATTERN" value="fila.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,28 +326,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trabalho1.Main" />
-      <module name="Trabalho1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Trabalho1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trabalho1.Main" />
-      <module name="algoritmos-estrutura-de-dados" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Trabalho1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="FilaVetorTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FilaVetorTests" />
+      <module name="Prova2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -353,19 +343,19 @@
     <list>
       <item itemvalue="Application.Trabalho 1" />
       <item itemvalue="Application.Estrutura de dados" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.LerArquivo" />
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.ArvoreBinariaTests" />
       <item itemvalue="Application.AvoreNAriasTests" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.FilaVetorTests" />
+      <item itemvalue="Application.FilaVetor" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.FilaVetor" />
+        <item itemvalue="Application.FilaVetorTests" />
         <item itemvalue="Application.AvoreNAriasTests" />
         <item itemvalue="Application.ArvoreBinariaTests" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.LerArquivo" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -388,6 +378,7 @@
       <workItem from="1557270224871" duration="4886000" />
       <workItem from="1557451594025" duration="3431000" />
       <workItem from="1557883264206" duration="663000" />
+      <workItem from="1561506860913" duration="415000" />
     </task>
     <task id="LOCAL-00001" summary="Quebra de linha e pasta de materiais">
       <created>1557112960287</created>
@@ -414,13 +405,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53987000" />
+    <option name="totallyTimeSpent" value="58675000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20021413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20536913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -428,8 +419,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.26628074" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21956769" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.26617646" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3382353" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -438,7 +429,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.20022753" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.2" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -453,35 +444,37 @@
       <window_info anchor="right" id="Maven" order="10" weight="0.32976446" />
     </layout>
     <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.17937702" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.20335196" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.31731844" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Database" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32975295" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20268457" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.26617646" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21911764" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.2" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32975295" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.32976446" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,89 +489,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/NoLista.java" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/ListaVaziaException.java" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/Demo.java" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/Aluno.java" />
-    <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/lista/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/Demo.java" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaCheiaException.java" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaVaziaException.java" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Model/Pilha.java" />
-    <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/HTML/LerArquivo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/testes.html" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Scanner.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/regex/Matcher.java" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaVetor.java" />
-    <entry file="uml://JAVA/Trabalho1.Utils">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>Trabalho1.Utils</OriginalElement>
-          <nodes>
-            <node x="" y="">Trabalho1.Utils.pilha.PilhaVaziaException</node>
-            <node x="" y="">Trabalho1.Utils.pilha.PilhaLista</node>
-            <node x="" y="">Trabalho1.Utils.Files</node>
-            <node x="" y="">Trabalho1.Utils.pilha.PilhaCheiaException</node>
-            <node x="" y="">Trabalho1.Utils.lista</node>
-            <node x="" y="">Trabalho1.Utils.Regex</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="125.0" y="77.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/Files.java" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/Regex.java" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/ConteudoArquivoController.java" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Main.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
-          <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/HTML/CriarHTML.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="136" column="54" selection-start-line="136" selection-start-column="54" selection-end-line="136" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/View/InterfaceController.java" />
-    <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaLista.java" />
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/Utils/lista/Lista.java" />
     <entry file="file://$PROJECT_DIR$/src/Trabalho1/Controller/AvaliarEstrutura.java" />
     <entry file="file://$PROJECT_DIR$/Trabalho1/src/Trabalho1/View/Interface.fxml">
@@ -727,27 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaVetor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaLista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaVetorTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/furb/pilha/PilhaVetor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -813,25 +702,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/furb/arvore_n_arias/Arvore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="139" column="6" selection-start-line="139" selection-start-column="6" selection-end-line="139" selection-end-column="6" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#3119#3120#0" expanded="true" />
-            <element signature="e#3146#3147#0" expanded="true" />
-            <element signature="e#3277#3278#0" expanded="true" />
-            <element signature="e#3309#3310#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="416">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/furb/arvore_n_arias/NoArvore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -845,17 +724,187 @@
     <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/prova2/Arvore.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/prova2/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/prova2/ArvoreProva.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/FilaVaziaException.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaVetorTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaLista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/pilha/PilhaCheiaException.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/lista/NoLista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/FilaCheiaException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/pilha/PilhaVetor.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/Fila.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/lista/ListaEncadeada.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/pilha/PilhaVaziaException.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/FilaLista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/ArvoreProva.java" />
+    <entry file="file://$PROJECT_DIR$/Prova2/src/FilaVetorTests.java" />
+    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/FilaListaTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/Prova2.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/FilaVetorTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/pilha/Pilha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/prova2/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/furb/fila/FilaVetor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="177" selection-start-line="177" selection-end-line="191" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/NoArvore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/NoArvoreBinaria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/Arvore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/FilaVetor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="98" column="30" selection-start-line="98" selection-start-column="30" selection-end-line="98" selection-end-column="30" />
+          <folding>
+            <element signature="e#2727#2728#0" expanded="true" />
+            <element signature="e#2754#2755#0" expanded="true" />
+            <element signature="e#2791#2792#0" expanded="true" />
+            <element signature="e#2823#2824#0" expanded="true" />
+            <element signature="e#2853#2854#0" expanded="true" />
+            <element signature="e#2882#2883#0" expanded="true" />
+            <element signature="e#2923#2924#0" expanded="true" />
+            <element signature="e#2959#2960#0" expanded="true" />
+            <element signature="e#2990#2991#0" expanded="true" />
+            <element signature="e#3020#3021#0" expanded="true" />
+            <element signature="e#3063#3064#0" expanded="true" />
+            <element signature="e#3101#3102#0" expanded="true" />
+            <element signature="e#3131#3132#0" expanded="true" />
+            <element signature="e#3160#3161#0" expanded="true" />
+            <element signature="e#3201#3202#0" expanded="true" />
+            <element signature="e#3237#3238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova2/src/ArvoreBinaria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Lista02/ListaEstaticaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Lista02/ListaEstatica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Lista02/ListaEstaticaTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
