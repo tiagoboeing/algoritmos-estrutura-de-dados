@@ -1,7 +1,9 @@
 package Lista14.mapa;
 
 import java.time.LocalDate;
-import lista.*;
+
+import Lista14.lista.Lista;
+import Lista14.lista.NoLista;
 
 public class MapaDispersao<T> {
 

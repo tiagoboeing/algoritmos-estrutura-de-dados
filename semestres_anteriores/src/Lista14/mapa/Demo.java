@@ -1,6 +1,6 @@
 package Lista14.mapa;
 
-import lista.*;
+import Lista14.lista.Lista;
 import java.time.LocalDate;
 
 public class Demo {
