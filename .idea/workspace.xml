@@ -7,9 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f8c79f7-ac19-431b-b2f5-4c8d56381299" name="Default Changelist" comment="Quebra de linha e pasta de materiais">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/semestres_anteriores/src/Lista14/mapa/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/semestres_anteriores/src/Lista14/mapa/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/semestres_anteriores/src/Lista14/mapa/MapaDispersao.java" beforeDir="false" afterPath="$PROJECT_DIR$/semestres_anteriores/src/Lista14/mapa/MapaDispersao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,51 +29,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/lista/ListaOrdenada.java">
+        <entry file="file://$PROJECT_DIR$/Prova3/src/Questao1/ArvoreBinariaBusca.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-787">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="-312">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/lista/PesoCaractere.java">
+        <entry file="file://$PROJECT_DIR$/Prova3/src/Questao1/ArvoreBinariaAbstract.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/lista/Tabela.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/huffman/Huffman.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            <state relative-caret-position="286">
+              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#880#881#0" expanded="true" />
+                <element signature="e#918#919#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/huffman/Tela.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prova3/src/Questao1/NoArvoreBinaria.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="-36">
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Prova3/src/Questao1/ArvoreBinaria.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,11 +93,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>pilha</find>
-      <find>gr</find>
-      <find>ca</find>
-      <find>total de ta</find>
-      <find>pus</find>
       <find>pilhaTags</find>
       <find>tag de fecha</find>
       <find>tag de fe</find>
@@ -125,7 +117,16 @@
       <find>encolher</find>
       <find>tostring</find>
       <find>arvoreprova</find>
+      <find>degene</find>
+      <find>carga</find>
+      <find>fatorca</find>
+      <find>aluno</find>
+      <find>fator</find>
+      <find>isdege</find>
     </findStrings>
+    <dirStrings>
+      <dir>G:\Meu Drive\Tiago Boeing\FURB\2019-1\Algoritmos e Estrutura de Dados\Exercícios semestres anteriores</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -133,15 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/trabalho1_semestres_anteriores/lista/Demo.java" />
-        <option value="$PROJECT_DIR$/src/trabalho1_semestres_anteriores/lista/ListaVaziaException.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/HTML/LerArquivo.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/pilha/PilhaLista.java" />
-        <option value="$PROJECT_DIR$/src/Trabalho1/Utils/lista/Main.java" />
-        <option value="$PROJECT_DIR$/src/Trabalho1/Utils/lista/ListaVaziaException.java" />
-        <option value="$PROJECT_DIR$/src/br/furb/trabalho1_semestres_anteriores/lista/Demo.java" />
-        <option value="$PROJECT_DIR$/src/Trabalho1/Utils/pilha/Pilha.java" />
-        <option value="$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaCheiaException.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaLista.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaVaziaException.java" />
         <option value="$PROJECT_DIR$/src/Trabalho1/Utils/pilha/PilhaVetor.java" />
@@ -184,6 +176,15 @@
         <option value="$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/huffman/ArvoreBinariaHuffman.java" />
         <option value="$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/huffman/Huffman.java" />
         <option value="$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/huffman/Tela.java" />
+        <option value="$PROJECT_DIR$/Prova3/src/ArvoreBinariaBusca/ArvoreBinariaAbstract.java" />
+        <option value="$PROJECT_DIR$/Prova3/src/ArvoreBinariaBusca/ArvoreBinariaBusca.java" />
+        <option value="$PROJECT_DIR$/Prova3/src/Questao1/ArvoreBinariaAbstract.java" />
+        <option value="$PROJECT_DIR$/Prova3/src/Questao2/mapa/MapaDispersao.java" />
+        <option value="$PROJECT_DIR$/Prova3/src/Questao2/lista/Lista.java" />
+        <option value="$PROJECT_DIR$/Prova3/src/Questao2/lista/ListaVaziaException.java" />
+        <option value="$PROJECT_DIR$/Prova3/src/Questao2/mapa/NoMapa.java" />
+        <option value="$PROJECT_DIR$/Prova3/src/Questao1/ArvoreBinariaBusca.java" />
+        <option value="$PROJECT_DIR$/Prova3/src/Questao1/ArvoreBinaria.java" />
       </list>
     </option>
   </component>
@@ -194,10 +195,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1937" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -207,6 +208,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,12 +219,37 @@
             <path>
               <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
               <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
-              <item name="semestres_anteriores" type="462c0819:PsiDirectoryNode" />
+              <item name="Prova3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="Prova3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="Prova3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Questao1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="Prova3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Questao2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
               <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
               <item name="semestres_anteriores" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="semestres_anteriores" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -230,33 +257,49 @@
               <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
               <item name="semestres_anteriores" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Trabalho2" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista11" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
               <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
               <item name="semestres_anteriores" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Trabalho2" type="462c0819:PsiDirectoryNode" />
-              <item name="huffman" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista12" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
               <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="semestres_anteriores" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista13" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
               <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="semestres_anteriores" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="furb" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="semestres_anteriores" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="prova3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algoritmos-estrutura-de-dados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritmos-estrutura-de-dados" type="462c0819:PsiDirectoryNode" />
+              <item name="semestres_anteriores" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="prova3" type="462c0819:PsiDirectoryNode" />
+              <item name="arvoreBinaria" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,7 +320,8 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/semestres_anteriores/src/Trabalho2" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Prova3/src/Questao2" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -288,19 +332,19 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="br.furb.pilha" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="A:\Java\algoritmos-estrutura-de-dados\src\br\furb\pilha_lista" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tiago\Desktop\Java\algoritmos-estrutura-de-dados\Prova3\src\Questao2" />
+      <recent name="C:\Users\tiago\Desktop\Java\algoritmos-estrutura-de-dados\Prova3\src\ArvoreBinariaBusca" />
+      <recent name="D:\Java\algoritmos-estrutura-de-dados\semestres_anteriores\src\Trabalho2" />
+      <recent name="C:\Users\tiago\Desktop\Java\algoritmos-estrutura-de-dados\semestres_anteriores\src" />
+      <recent name="C:\Users\tiago\Desktop\Java\algoritmos-estrutura-de-dados\semestres_anteriores\src\prova3" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="junit.framework.TestCase" />
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java\algoritmos-estrutura-de-dados\semestres_anteriores\src\Trabalho2" />
-      <recent name="C:\Users\tiago\Desktop\Java\algoritmos-estrutura-de-dados\semestres_anteriores\src" />
-      <recent name="C:\Users\tiago\Desktop\Java\algoritmos-estrutura-de-dados\semestres_anteriores\src\prova3" />
-      <recent name="C:\Users\tiago\Desktop\Java\algoritmos-estrutura-de-dados\Prova2\src" />
-      <recent name="C:\Users\tiago\Desktop\Java\algoritmos-estrutura-de-dados\Prova2\src\Fila" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\Java\algoritmos-estrutura-de-dados\src\br\furb\pilha_lista" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -422,6 +466,7 @@
       <workItem from="1557451594025" duration="3431000" />
       <workItem from="1557883264206" duration="663000" />
       <workItem from="1561506860913" duration="415000" />
+      <workItem from="1561680754564" duration="1069000" />
     </task>
     <task id="LOCAL-00001" summary="Quebra de linha e pasta de materiais">
       <created>1557112960287</created>
@@ -448,13 +493,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59535000" />
+    <option name="totallyTimeSpent" value="60604000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25428265" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25771812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -532,44 +577,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/pilha/PilhaCheiaException.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/lista/NoLista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/FilaCheiaException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/pilha/PilhaVetor.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/Fila.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/lista/ListaEncadeada.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/pilha/PilhaVaziaException.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prova2/src/fila/FilaLista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-89">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Prova2/src/ArvoreProva.java" />
-    <entry file="file://$PROJECT_DIR$/Prova2/src/FilaVetorTests.java" />
     <entry file="file://$PROJECT_DIR$/Prova2/src/fila/FilaListaTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -773,13 +780,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/arvoreBinaria/ArvoreBinaria.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2623">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/arvoreBinaria/ArvoreBinaria.java" />
     <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Lista12/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -787,91 +788,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/arvoreBinaria/ArvoreBinariaAbstract.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-751">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/arvoreBinaria/ArvoreBinariaAbstract.java" />
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/arvoreBinaria/ArvoreBinariaBusca.java" />
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/arvoreBinaria/NoArvoreBinaria.java" />
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/huffman/ArvoreBinariaHuffman.java" />
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/huffman/Tela.form" />
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/lista/Lista.java" />
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/lista/ListaAbstract.java" />
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/lista/ListaOrdenada.java" />
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/lista/PesoCaractere.java" />
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/lista/Tabela.java" />
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/huffman/Huffman.java" />
+    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/huffman/Tela.java" />
+    <entry file="file://$PROJECT_DIR$/Prova3/src/ArvoreBinariaBusca/Demo.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/arvoreBinaria/ArvoreBinariaBusca.java">
+    <entry file="file://$PROJECT_DIR$/Prova3/src/Questao2/lista/Lista.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2803">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/arvoreBinaria/NoArvoreBinaria.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-283">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/huffman/ArvoreBinariaHuffman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/huffman/Tela.form">
-      <provider selected="true" editor-type-id="ui-designer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/lista/Lista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/lista/ListaAbstract.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1974">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/lista/ListaOrdenada.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-787">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/lista/PesoCaractere.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/lista/Tabela.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/huffman/Huffman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/semestres_anteriores/src/Trabalho2/huffman/Tela.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
+        <state relative-caret-position="52">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova3/src/Questao2/lista/ListaVaziaException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova3/src/Questao2/lista/NoLista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova3/src/Questao2/mapa/MapaDispersao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1357">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova3/src/Questao2/mapa/NoMapa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova3/src/Questao1/ArvoreBinariaBusca.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova3/src/Questao1/NoArvoreBinaria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova3/src/Questao1/ArvoreBinariaAbstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prova3/src/Questao1/ArvoreBinaria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
           </folding>
         </state>
       </provider>
